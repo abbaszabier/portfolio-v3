@@ -34,44 +34,52 @@
         "description": "Next.js और TypeScript पर आधारित इंटरनल डैशबोर्ड बनाना और मेंटेन करना, तथा डिज़ाइन टीम के साथ मिलकर सुसंगत UI लागू करना।"
       }
     },
-    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"]
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ]
   },
   {
     "id": "2",
     "company": "Startup Teknologi Lokal",
     "translations": {
       "id": {
-        "role": "Full Stack Developer",
+        "role": "Frontend Developer",
         "period": "2022 — 2024",
         "type": "Full-time",
         "description": "Mengembangkan fitur end-to-end untuk platform e-commerce, mulai dari API backend hingga tampilan frontend."
       },
       "en": {
-        "role": "Full Stack Developer",
+        "role": "Frontend Developer",
         "period": "2022 — 2024",
         "type": "Full-time",
         "description": "Developed end-to-end features for an e-commerce platform, from backend APIs to frontend interfaces."
       },
       "zh": {
-        "role": "全栈开发工程师",
+        "role": "前端开发工程师",
         "period": "2022年—2024年",
         "type": "全职",
         "description": "为电商平台开发端到端功能，涵盖后端 API 到前端界面。"
       },
       "ja": {
-        "role": "フルスタック開発者",
+        "role": "フロントエンド開発者",
         "period": "2022年 — 2024年",
         "type": "正社員",
         "description": "ECプラットフォームのバックエンドAPIからフロントエンドまで、エンドツーエンドで機能開発を担当。"
       },
       "hi": {
-        "role": "फुल स्टैक डेवलपर",
+        "role": "अग्रणी डेवलपर",
         "period": "2022 — 2024",
         "type": "फुल-टाइम",
         "description": "ई-कॉमर्स प्लेटफ़ॉर्म के लिए एंड-टू-एंड फीचर विकसित किए, बैकएंड API से लेकर फ्रंटएंड तक।"
       }
     },
-    "techStack": ["React", "Node.js", "PostgreSQL"]
+    "techStack": [
+      "React",
+      "Node.js",
+      "PostgreSQL"
+    ]
   },
   {
     "id": "3",
@@ -108,6 +116,9 @@
         "description": "छोटे व्यवसायों और पर्सनल ब्रांडिंग के लिए लैंडिंग पेज से लेकर सरल सिस्टम तक कई वेबसाइट प्रोजेक्ट्स पर काम किया।"
       }
     },
-    "techStack": ["React", "Firebase"]
+    "techStack": [
+      "React",
+      "Firebase"
+    ]
   }
 ]

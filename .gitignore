@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Claude
+.claude/
+.claude*
+claude.json
+claude.config.json
+
+# AI Agent Guidelines (Local Only)
+CLAUDE.md
+AGENT.md

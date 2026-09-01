@@ -1,0 +1,113 @@
+[
+  {
+    "id": "1",
+    "company": "PT Digital Kreasi Nusantara",
+    "translations": {
+      "id": {
+        "role": "Frontend Engineer",
+        "period": "2024 — Sekarang",
+        "type": "Full-time",
+        "description": "Membangun dan memelihara dashboard internal berbasis Next.js dan TypeScript, berkolaborasi dengan tim desain untuk implementasi UI yang konsisten."
+      },
+      "en": {
+        "role": "Frontend Engineer",
+        "period": "2024 — Present",
+        "type": "Full-time",
+        "description": "Building and maintaining internal dashboards with Next.js and TypeScript, collaborating with the design team on consistent UI implementation."
+      },
+      "zh": {
+        "role": "前端工程师",
+        "period": "2024年至今",
+        "type": "全职",
+        "description": "使用 Next.js 和 TypeScript 构建并维护内部管理后台，与设计团队协作实现一致的界面。"
+      },
+      "ja": {
+        "role": "フロントエンドエンジニア",
+        "period": "2024年 — 現在",
+        "type": "正社員",
+        "description": "Next.jsとTypeScriptを用いた社内ダッシュボードの構築・保守を担当し、デザインチームと連携して一貫性のあるUIを実装。"
+      },
+      "hi": {
+        "role": "फ्रंटएंड इंजीनियर",
+        "period": "2024 — वर्तमान",
+        "type": "फुल-टाइम",
+        "description": "Next.js और TypeScript पर आधारित इंटरनल डैशबोर्ड बनाना और मेंटेन करना, तथा डिज़ाइन टीम के साथ मिलकर सुसंगत UI लागू करना।"
+      }
+    },
+    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"]
+  },
+  {
+    "id": "2",
+    "company": "Startup Teknologi Lokal",
+    "translations": {
+      "id": {
+        "role": "Full Stack Developer",
+        "period": "2022 — 2024",
+        "type": "Full-time",
+        "description": "Mengembangkan fitur end-to-end untuk platform e-commerce, mulai dari API backend hingga tampilan frontend."
+      },
+      "en": {
+        "role": "Full Stack Developer",
+        "period": "2022 — 2024",
+        "type": "Full-time",
+        "description": "Developed end-to-end features for an e-commerce platform, from backend APIs to frontend interfaces."
+      },
+      "zh": {
+        "role": "全栈开发工程师",
+        "period": "2022年—2024年",
+        "type": "全职",
+        "description": "为电商平台开发端到端功能，涵盖后端 API 到前端界面。"
+      },
+      "ja": {
+        "role": "フルスタック開発者",
+        "period": "2022年 — 2024年",
+        "type": "正社員",
+        "description": "ECプラットフォームのバックエンドAPIからフロントエンドまで、エンドツーエンドで機能開発を担当。"
+      },
+      "hi": {
+        "role": "फुल स्टैक डेवलपर",
+        "period": "2022 — 2024",
+        "type": "फुल-टाइम",
+        "description": "ई-कॉमर्स प्लेटफ़ॉर्म के लिए एंड-टू-एंड फीचर विकसित किए, बैकएंड API से लेकर फ्रंटएंड तक।"
+      }
+    },
+    "techStack": ["React", "Node.js", "PostgreSQL"]
+  },
+  {
+    "id": "3",
+    "company": "Berbagai Klien",
+    "translations": {
+      "id": {
+        "role": "Freelance Web Developer",
+        "period": "2021 — 2022",
+        "type": "Freelance",
+        "description": "Mengerjakan berbagai proyek website untuk UMKM dan personal branding, dari landing page hingga sistem sederhana."
+      },
+      "en": {
+        "role": "Freelance Web Developer",
+        "period": "2021 — 2022",
+        "type": "Freelance",
+        "description": "Worked on various website projects for small businesses and personal branding, from landing pages to simple systems."
+      },
+      "zh": {
+        "role": "自由职业网页开发者",
+        "period": "2021年—2022年",
+        "type": "自由职业",
+        "description": "为中小企业和个人品牌承接各类网站项目，从落地页到简单系统均有涉及。"
+      },
+      "ja": {
+        "role": "フリーランスWeb開発者",
+        "period": "2021年 — 2022年",
+        "type": "フリーランス",
+        "description": "中小企業や個人ブランディング向けに、ランディングページからシンプルなシステムまで様々なWebサイト制作を担当。"
+      },
+      "hi": {
+        "role": "फ्रीलांस वेब डेवलपर",
+        "period": "2021 — 2022",
+        "type": "फ्रीलांस",
+        "description": "छोटे व्यवसायों और पर्सनल ब्रांडिंग के लिए लैंडिंग पेज से लेकर सरल सिस्टम तक कई वेबसाइट प्रोजेक्ट्स पर काम किया।"
+      }
+    },
+    "techStack": ["React", "Firebase"]
+  }
+]

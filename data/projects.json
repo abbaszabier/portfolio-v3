@@ -1,0 +1,164 @@
+[
+  {
+    "id": "1",
+    "translations": {
+      "id": {
+        "name": "E-Commerce Dashboard",
+        "description": "Dashboard admin untuk mengelola produk, pesanan, dan analitik penjualan secara real-time.",
+        "whatIDid": [
+          "Membangun dashboard admin dari nol dengan Next.js dan TypeScript",
+          "Mengimplementasikan manajemen produk dan pesanan dengan Prisma",
+          "Membuat visualisasi analitik penjualan real-time"
+        ]
+      },
+      "en": {
+        "name": "E-Commerce Dashboard",
+        "description": "Admin dashboard for managing products, orders, and real-time sales analytics.",
+        "whatIDid": [
+          "Built the admin dashboard from scratch with Next.js and TypeScript",
+          "Implemented product and order management with Prisma",
+          "Created real-time sales analytics visualizations"
+        ]
+      },
+      "zh": {
+        "name": "电商管理后台",
+        "description": "用于实时管理产品、订单和销售数据分析的管理后台。",
+        "whatIDid": [
+          "使用 Next.js 和 TypeScript 从零构建管理后台",
+          "使用 Prisma 实现产品与订单管理",
+          "制作实时销售数据可视化"
+        ]
+      },
+      "ja": {
+        "name": "ECダッシュボード",
+        "description": "商品・注文管理とリアルタイム売上分析ができる管理者向けダッシュボード。",
+        "whatIDid": [
+          "Next.jsとTypeScriptで管理ダッシュボードをゼロから構築",
+          "Prismaを使った商品・注文管理機能を実装",
+          "リアルタイム売上分析の可視化を作成"
+        ]
+      },
+      "hi": {
+        "name": "ई-कॉमर्स डैशबोर्ड",
+        "description": "उत्पाद, ऑर्डर और रीयल-टाइम बिक्री एनालिटिक्स प्रबंधित करने के लिए एडमिन डैशबोर्ड।",
+        "whatIDid": [
+          "Next.js और TypeScript से एडमिन डैशबोर्ड शुरू से बनाया",
+          "Prisma के साथ प्रोडक्ट और ऑर्डर मैनेजमेंट लागू किया",
+          "रीयल-टाइम बिक्री एनालिटिक्स विज़ुअलाइज़ेशन बनाया"
+        ]
+      }
+    },
+    "techStack": ["Next.js", "TypeScript", "Tailwind CSS", "Prisma"],
+    "link": "https://github.com/example/ecommerce-dashboard",
+    "image": "",
+    "platform": "Web Application"
+  },
+  {
+    "id": "2",
+    "translations": {
+      "id": {
+        "name": "Task Management App",
+        "description": "Aplikasi kolaborasi tim dengan fitur drag-and-drop board, notifikasi, dan integrasi kalender.",
+        "whatIDid": [
+          "Mengembangkan board drag-and-drop dengan React dan Redux",
+          "Membangun REST API dengan Node.js dan PostgreSQL",
+          "Mengintegrasikan notifikasi dan sinkronisasi kalender"
+        ]
+      },
+      "en": {
+        "name": "Task Management App",
+        "description": "Team collaboration app with drag-and-drop boards, notifications, and calendar integration.",
+        "whatIDid": [
+          "Developed the drag-and-drop board with React and Redux",
+          "Built the REST API with Node.js and PostgreSQL",
+          "Integrated notifications and calendar sync"
+        ]
+      },
+      "zh": {
+        "name": "任务管理应用",
+        "description": "支持拖拽看板、通知提醒和日历集成的团队协作应用。",
+        "whatIDid": [
+          "使用 React 和 Redux 开发拖拽看板",
+          "使用 Node.js 和 PostgreSQL 构建 REST API",
+          "集成通知提醒与日历同步"
+        ]
+      },
+      "ja": {
+        "name": "タスク管理アプリ",
+        "description": "ドラッグ&ドロップボード、通知、カレンダー連携機能を備えたチームコラボレーションアプリ。",
+        "whatIDid": [
+          "ReactとReduxでドラッグ&ドロップボードを開発",
+          "Node.jsとPostgreSQLでREST APIを構築",
+          "通知機能とカレンダー連携を実装"
+        ]
+      },
+      "hi": {
+        "name": "टास्क मैनेजमेंट ऐप",
+        "description": "ड्रैग-एंड-ड्रॉप बोर्ड, नोटिफिकेशन और कैलेंडर इंटीग्रेशन वाला टीम सहयोग ऐप।",
+        "whatIDid": [
+          "React और Redux से ड्रैग-एंड-ड्रॉप बोर्ड बनाया",
+          "Node.js और PostgreSQL से REST API बनाया",
+          "नोटिफिकेशन और कैलेंडर सिंक इंटीग्रेट किया"
+        ]
+      }
+    },
+    "techStack": ["React", "Redux", "Node.js", "PostgreSQL"],
+    "link": "https://github.com/example/task-management-app",
+    "image": "",
+    "platform": "Web Application"
+  },
+  {
+    "id": "3",
+    "translations": {
+      "id": {
+        "name": "Personal Finance Tracker",
+        "description": "Aplikasi pencatatan keuangan pribadi dengan visualisasi grafik pengeluaran bulanan.",
+        "whatIDid": [
+          "Membangun aplikasi dengan Next.js dan Supabase",
+          "Membuat visualisasi grafik pengeluaran dengan Chart.js",
+          "Mendesain UI pencatatan transaksi yang sederhana"
+        ]
+      },
+      "en": {
+        "name": "Personal Finance Tracker",
+        "description": "Personal finance tracking app with monthly expense chart visualizations.",
+        "whatIDid": [
+          "Built the app with Next.js and Supabase",
+          "Created expense chart visualizations with Chart.js",
+          "Designed a simple transaction logging UI"
+        ]
+      },
+      "zh": {
+        "name": "个人财务追踪器",
+        "description": "带有月度支出图表可视化功能的个人财务记录应用。",
+        "whatIDid": [
+          "使用 Next.js 和 Supabase 构建应用",
+          "使用 Chart.js 制作支出图表可视化",
+          "设计简洁的交易记录界面"
+        ]
+      },
+      "ja": {
+        "name": "個人資産管理アプリ",
+        "description": "月間支出をグラフで可視化できる個人向け家計簿アプリ。",
+        "whatIDid": [
+          "Next.jsとSupabaseでアプリを構築",
+          "Chart.jsで支出グラフを可視化",
+          "シンプルな取引記録UIを設計"
+        ]
+      },
+      "hi": {
+        "name": "पर्सनल फाइनेंस ट्रैकर",
+        "description": "मासिक खर्च का ग्राफ दिखाने वाला व्यक्तिगत वित्त ट्रैकिंग ऐप।",
+        "whatIDid": [
+          "Next.js और Supabase से ऐप बनाया",
+          "Chart.js से खर्च का ग्राफ विज़ुअलाइज़ किया",
+          "सरल ट्रांजैक्शन लॉगिंग UI डिज़ाइन किया"
+        ]
+      }
+    },
+    "techStack": ["Next.js", "Chart.js", "Supabase"],
+    "link": "https://github.com/example/finance-tracker",
+    "image": "",
+    "platform": "Web Application"
+  }
+]

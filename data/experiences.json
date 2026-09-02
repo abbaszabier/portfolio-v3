@@ -42,43 +42,46 @@
   },
   {
     "id": "2",
-    "company": "Startup Teknologi Lokal",
+    "company": "Dealjava",
     "translations": {
       "id": {
         "role": "Frontend Developer",
-        "period": "2022 — 2024",
+        "period": "Apr 2023 - Jul 2024",
         "type": "Full-time",
-        "description": "Mengembangkan fitur end-to-end untuk platform e-commerce, mulai dari API backend hingga tampilan frontend."
+        "description": "Bertanggung jawab mengembangkan sistem POS dari awal menggunakan React JS dan Chakra UI, berkolaborasi dengan tim UI/UX, backend, dan Project Manager dalam implementasi fitur, mengintegrasikan berbagai API termasuk REST, GraphQL, dan WebSocket untuk menciptakan pengalaman data yang interaktif dan real-time serta meningkatkan efisiensi operasional pengguna, membangun desain web responsif untuk berbagai perangkat, mengubah aplikasi menjadi Progressive Web App (PWA) dengan dukungan fungsi offline dan instalasi seperti aplikasi native untuk meningkatkan keterlibatan dan aksesibilitas pengguna, serta melakukan unit testing dan integration testing untuk mengidentifikasi dan menyelesaikan bug kritis sehingga meningkatkan stabilitas aplikasi dan mengurangi masalah setelah peluncuran."
       },
       "en": {
         "role": "Frontend Developer",
-        "period": "2022 — 2024",
+        "period": "Apr 2023 - Jul 2024",
         "type": "Full-time",
-        "description": "Developed end-to-end features for an e-commerce platform, from backend APIs to frontend interfaces."
+        "description": "Responsible for developing a POS system from scratch using React JS and Chakra UI, collaborating with the UI/UX team, Backend team, and Project Manager to implement features, integrating multiple APIs including REST, GraphQL, and WebSocket to create a highly interactive and real-time data experience that improved operational efficiency for end users, building responsive web designs for various devices, transforming the application into a Progressive Web App (PWA) with offline functionality and native-like installation to increase user engagement and accessibility, and conducting unit and integration testing to identify and resolve critical bugs, enhancing application stability and reducing post-launch issues."
       },
       "zh": {
         "role": "前端开发工程师",
-        "period": "2022年—2024年",
+        "period": "2023年4月 - 2024年7月",
         "type": "全职",
-        "description": "为电商平台开发端到端功能，涵盖后端 API 到前端界面。"
+        "description": "负责使用 React JS 和 Chakra UI 从零开始开发 POS 系统，与 UI/UX 团队、后端团队及项目经理协作实施各项功能，集成包括 REST、GraphQL 和 WebSocket 在内的多种 API，打造高度交互且具备实时数据能力的用户体验，从而提升终端用户的运营效率，为各种设备构建响应式网页设计，并将应用转型为渐进式 Web 应用（PWA），支持离线功能和类似原生应用的安装方式，以提升用户参与度和可访问性，同时进行单元测试和集成测试，及时发现并解决关键 Bug，从而增强应用稳定性并减少上线后的问题。"
       },
       "ja": {
         "role": "フロントエンド開発者",
-        "period": "2022年 — 2024年",
+        "period": "2023年4月～2024年7月",
         "type": "正社員",
-        "description": "ECプラットフォームのバックエンドAPIからフロントエンドまで、エンドツーエンドで機能開発を担当。"
+        "description": "React JSとChakra UIを使用してPOSシステムをゼロから開発し、UI/UXチーム、バックエンドチーム、プロジェクトマネージャーと連携して機能を実装するとともに、REST、GraphQL、WebSocketなどの複数のAPIを統合して高い操作性とリアルタイムなデータ体験を実現し、エンドユーザーの業務効率を向上させ、さまざまなデバイスに対応したレスポンシブWebデザインを構築し、オフライン機能とネイティブアプリに近いインストール機能を備えたProgressive Web App（PWA）へ移行することでユーザーエンゲージメントとアクセシビリティを向上させ、さらにユニットテストおよび統合テストを実施して重要なバグを特定・解決し、アプリケーションの安定性を高め、リリース後の問題を削減しました。"
       },
       "hi": {
         "role": "अग्रणी डेवलपर",
-        "period": "2022 — 2024",
+        "period": "अप्रैल 2023 - जुलाई 2024",
         "type": "फुल-टाइम",
-        "description": "ई-कॉमर्स प्लेटफ़ॉर्म के लिए एंड-टू-एंड फीचर विकसित किए, बैकएंड API से लेकर फ्रंटएंड तक।"
+        "description": "React JS और Chakra UI का उपयोग करके POS सिस्टम को शुरू से विकसित करने, UI/UX टीम, बैकएंड टीम और Project Manager के साथ मिलकर फीचर्स को लागू करने, REST, GraphQL और WebSocket सहित विभिन्न APIs को इंटीग्रेट करके अत्यधिक इंटरैक्टिव और रियल-टाइम डेटा अनुभव तैयार करने तथा अंतिम उपयोगकर्ताओं की परिचालन दक्षता में सुधार करने, विभिन्न डिवाइसों के लिए रिस्पॉन्सिव वेब डिज़ाइन बनाने, ऑफलाइन कार्यक्षमता और नेटिव ऐप जैसी इंस्टॉलेशन सुविधा के साथ एप्लिकेशन को Progressive Web App (PWA) में परिवर्तित करके यूज़र एंगेजमेंट और एक्सेसिबिलिटी बढ़ाने, तथा यूनिट टेस्टिंग और इंटीग्रेशन टेस्टिंग के माध्यम से महत्वपूर्ण बग की पहचान और समाधान करने की जिम्मेदारी संभाली, जिससे एप्लिकेशन की स्थिरता में सुधार हुआ और लॉन्च के बाद होने वाली समस्याओं में कमी आई।"
       }
     },
     "techStack": [
-      "React",
-      "Node.js",
-      "PostgreSQL"
+      "React.js",
+      "Chakra UI",
+      "Progressive Web Apps",
+      "GraphQL",
+      "Websocket",
+      "Tanstack Query"
     ]
   },
   {

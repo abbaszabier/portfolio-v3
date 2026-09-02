@@ -31,7 +31,7 @@ export default async function Home({
   return (
     <div className="relative flex flex-1 flex-col">
       {/* Hero */}
-      <section className="relative mx-auto flex min-h-svh w-full max-w-5xl flex-col items-center justify-center overflow-hidden px-6 py-24 text-center">
+      <section className="relative mx-auto flex min-h-svh w-full max-w-6xl flex-col items-center justify-center overflow-hidden px-6 py-24 text-center">
         <HeroDecor />
 
         <div className="animate-in fade-in slide-in-from-bottom-4 flex items-center gap-2 text-sm text-muted-foreground duration-700">
@@ -39,13 +39,13 @@ export default async function Home({
           {dict.home.badge}
         </div>
 
-        <h1 className="animate-in fade-in slide-in-from-bottom-4 mt-6 font-heading text-7xl font-semibold leading-[0.95] tracking-tight delay-100 duration-700 sm:text-8xl md:text-9xl">
+        <h1 className="animate-in fade-in slide-in-from-bottom-4 mt-6 font-heading text-5xl font-semibold leading-[0.95] tracking-tight delay-100 duration-700 sm:text-8xl md:text-9xl">
           {dict.home.greeting}
           <br />
           {dict.home.name}
         </h1>
 
-        <p className="animate-in fade-in slide-in-from-bottom-4 mt-8 max-w-xl text-lg leading-8 text-muted-foreground delay-200 duration-700">
+        <p className="animate-in fade-in slide-in-from-bottom-4 mt-8 max-w-xl text-base md:text-lg leading-8 text-muted-foreground delay-200 duration-700">
           {dict.home.subtitle}
         </p>
 

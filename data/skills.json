@@ -52,5 +52,11 @@
     "category": "Frontend",
     "name": "Zustand",
     "level": 80
+  },
+  {
+    "id": "e0e1574d-6354-4a59-af8c-18f2421790ce",
+    "category": "Frontend",
+    "name": "PWA",
+    "level": 85
   }
 ]

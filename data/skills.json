@@ -34,5 +34,11 @@
     "category": "Frontend",
     "name": "Next.js",
     "level": 80
+  },
+  {
+    "id": "47ec2303-01a8-42a5-a22f-b49ac63483a3",
+    "category": "Frontend",
+    "name": "Tanstack Query",
+    "level": 75
   }
 ]

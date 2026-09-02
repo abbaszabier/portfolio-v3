@@ -165,6 +165,54 @@
         "description": "PHP, Laravel और .NET का उपयोग करके कई प्रोजेक्ट्स को शुरू से विकसित करने, UI/UX और बैकएंड टीमों के साथ मिलकर फीचर्स को लागू करने, फ्रंटएंड और बैकएंड के बीच API (RESTful API) को इंटीग्रेट करने, विभिन्न डिवाइसों के लिए रिस्पॉन्सिव वेब डिज़ाइन बनाने तथा यूनिट टेस्टिंग, डिबगिंग और बग फिक्सिंग करने की जिम्मेदारी संभाली।"
       }
     },
-    "techStack": ["PHP", "Laravel", ".NET"]
+    "techStack": [
+      "PHP",
+      "Laravel",
+      ".NET"
+    ]
+  },
+  {
+    "id": "e33a72b3-74df-4fae-8682-14f51a188756",
+    "company": "Unictive Media",
+    "translations": {
+      "id": {
+        "role": "Frontend Developer",
+        "period": "Okt 2025 - Sekarang",
+        "type": "Full-time",
+        "description": ""
+      },
+      "en": {
+        "role": "Frontend Developer",
+        "period": "Oct 2025 - Present",
+        "type": "Full-time",
+        "description": ""
+      },
+      "zh": {
+        "role": "前端开发工程师",
+        "period": "2025年10月至今",
+        "type": "全职",
+        "description": ""
+      },
+      "ja": {
+        "role": "フロントエンド開発者",
+        "period": "2025年10月～現在",
+        "type": "正社員",
+        "description": ""
+      },
+      "hi": {
+        "role": "अग्रणी डेवलपर",
+        "period": "अक्टूबर 2025 - वर्तमान",
+        "type": "फुल-टाइम",
+        "description": ""
+      }
+    },
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "Shadcn UI",
+      "Tanstack Query",
+      "Zustand",
+      "Progressive Web Apps (PWA)"
+    ]
   }
 ]

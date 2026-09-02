@@ -79,7 +79,7 @@
     "techStack": [
       "React.js",
       "Chakra UI",
-      "Progressive Web Apps",
+      "Progressive Web Apps (PWA)",
       "GraphQL",
       "Websocket",
       "Tanstack Query"

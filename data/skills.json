@@ -58,5 +58,11 @@
     "category": "Frontend",
     "name": "PWA",
     "level": 85
+  },
+  {
+    "id": "049b4d26-f50a-4c3c-8b93-50a152fe2d31",
+    "category": "Frontend",
+    "name": "Shadcn UI",
+    "level": 80
   }
 ]

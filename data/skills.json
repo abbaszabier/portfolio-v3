@@ -46,5 +46,11 @@
     "category": "Frontend",
     "name": "Chakra UI",
     "level": 90
+  },
+  {
+    "id": "a40c067b-555a-443f-b5ad-dae72467b57e",
+    "category": "Frontend",
+    "name": "Zustand",
+    "level": 80
   }
 ]

@@ -1,5 +1,48 @@
 [
   {
+    "id": "5cde70b0-bf01-4157-94cf-b03fc56e6d8e",
+    "company": "Caliana Indonesia",
+    "translations": {
+      "id": {
+        "role": "Frontend Developer",
+        "period": "Mar 2025 - Sep 2025",
+        "type": "Kontrak",
+        "description": "Bertanggung jawab mengembangkan sistem My Zetta Backoffice (ISP) menggunakan Next JS, React Bootstrap untuk menjaga konsistensi UI, dan Redux untuk manajemen state secara global, berkolaborasi dengan Project Manager serta tim UI/UX dan backend dalam implementasi fitur, mengintegrasikan RESTful API dengan React Query (TanStack Query) untuk mengurangi waktu loading data melalui optimalisasi request dan penerapan mekanisme caching yang efisien, membangun desain web yang responsif dan mobile-first untuk berbagai perangkat guna meningkatkan aksesibilitas dan engagement pengguna, serta melakukan unit testing, debugging, dan optimalisasi performa hingga berhasil menghilangkan bug di production sehingga mengurangi downtime dan keluhan pengguna."
+      },
+      "en": {
+        "role": "Frontend Developer",
+        "period": "Mar 2025 - Sep 2025",
+        "type": "Contract",
+        "description": "Responsible for developing the My Zetta Backoffice (ISP) system using Next JS, React Bootstrap to ensure UI consistency, and Redux for global state management, collaborating with the Project Manager and UI/UX and backend teams to implement features, integrating RESTful APIs with React Query (TanStack Query) to reduce data loading times by optimizing fetch requests and implementing efficient caching mechanisms, building responsive and mobile-first web designs for various devices to increase user accessibility and engagement, and conducting unit testing, debugging, and performance optimization to successfully eliminate production bugs, thereby reducing downtime and user complaints."
+      },
+      "zh": {
+        "role": "前端开发工程师",
+        "period": "2025年3月 - 2025年9月",
+        "type": "合同",
+        "description": "负责使用 Next JS 开发 My Zetta Backoffice（ISP）系统，采用 React Bootstrap 确保 UI 一致性，并使用 Redux 进行全局状态管理，与项目经理以及 UI/UX 和后端团队协作实施各项功能，通过 React Query（TanStack Query）集成 RESTful API，优化数据请求并实施高效的缓存机制，从而减少数据加载时间，构建适用于各种设备的响应式及移动优先网页设计，以提升用户的可访问性和参与度，同时进行单元测试、调试和性能优化，成功消除生产环境中的 Bug，从而减少系统停机时间和用户投诉。"
+      },
+      "ja": {
+        "role": "フロントエンド開発者",
+        "period": "2025年3月～2025年9月",
+        "type": "契約",
+        "description": "Next JSを使用してMy Zetta Backoffice（ISP）システムを開発し、UIの一貫性を確保するためにReact Bootstrapを、グローバルな状態管理のためにReduxを活用するとともに、プロジェクトマネージャーおよびUI/UX・バックエンドチームと連携して機能を実装し、React Query（TanStack Query）を使用してRESTful APIを統合し、データ取得リクエストの最適化と効率的なキャッシュ機構の導入によってデータの読み込み時間を短縮し、さまざまなデバイスに対応したレスポンシブかつモバイルファーストなWebデザインを構築してユーザーのアクセシビリティとエンゲージメントを向上させ、さらにユニットテスト、デバッグ、パフォーマンス最適化を実施して本番環境のバグを解消し、ダウンタイムとユーザーからの苦情を削減しました。"
+      },
+      "hi": {
+        "role": "अग्रणी डेवलपर",
+        "period": "मार्च 2025 - सितंबर 2025",
+        "type": "अनुबंध",
+        "description": "Next JS का उपयोग करके My Zetta Backoffice (ISP) सिस्टम विकसित करने, UI की एकरूपता बनाए रखने के लिए React Bootstrap और ग्लोबल स्टेट मैनेजमेंट के लिए Redux का उपयोग करने, Project Manager तथा UI/UX और बैकएंड टीमों के साथ मिलकर फीचर्स को लागू करने, React Query (TanStack Query) के माध्यम से RESTful APIs को इंटीग्रेट करके fetch requests को ऑप्टिमाइज़ करने और प्रभावी caching mechanisms लागू करके डेटा लोडिंग समय को कम करने, विभिन्न डिवाइसों के लिए responsive और mobile-first वेब डिज़ाइन तैयार करके उपयोगकर्ता की accessibility और engagement बढ़ाने, तथा unit testing, debugging और performance optimization के माध्यम से production bugs को सफलतापूर्वक समाप्त करने की जिम्मेदारी संभाली, जिससे downtime और user complaints में कमी आई।"
+      }
+    },
+    "techStack": [
+      "Next.js",
+      "Javascript",
+      "Bootstrap",
+      "Redux",
+      "Tanstack Query"
+    ]
+  },
+  {
     "id": "1",
     "company": "Inkor Group",
     "translations": {
@@ -122,53 +165,6 @@
         "description": "PHP, Laravel और .NET का उपयोग करके कई प्रोजेक्ट्स को शुरू से विकसित करने, UI/UX और बैकएंड टीमों के साथ मिलकर फीचर्स को लागू करने, फ्रंटएंड और बैकएंड के बीच API (RESTful API) को इंटीग्रेट करने, विभिन्न डिवाइसों के लिए रिस्पॉन्सिव वेब डिज़ाइन बनाने तथा यूनिट टेस्टिंग, डिबगिंग और बग फिक्सिंग करने की जिम्मेदारी संभाली।"
       }
     },
-    "techStack": [
-      "PHP",
-      "Laravel",
-      ".NET"
-    ]
-  },
-  {
-    "id": "5cde70b0-bf01-4157-94cf-b03fc56e6d8e",
-    "company": "Caliana Indonesia",
-    "translations": {
-      "id": {
-        "role": "Frontend Developer",
-        "period": "Mar 2025 - Sep 2025",
-        "type": "Kontrak",
-        "description": "Bertanggung jawab mengembangkan sistem My Zetta Backoffice (ISP) menggunakan Next JS, React Bootstrap untuk menjaga konsistensi UI, dan Redux untuk manajemen state secara global, berkolaborasi dengan Project Manager serta tim UI/UX dan backend dalam implementasi fitur, mengintegrasikan RESTful API dengan React Query (TanStack Query) untuk mengurangi waktu loading data melalui optimalisasi request dan penerapan mekanisme caching yang efisien, membangun desain web yang responsif dan mobile-first untuk berbagai perangkat guna meningkatkan aksesibilitas dan engagement pengguna, serta melakukan unit testing, debugging, dan optimalisasi performa hingga berhasil menghilangkan bug di production sehingga mengurangi downtime dan keluhan pengguna."
-      },
-      "en": {
-        "role": "Frontend Developer",
-        "period": "Mar 2025 - Sep 2025",
-        "type": "Contract",
-        "description": "Responsible for developing the My Zetta Backoffice (ISP) system using Next JS, React Bootstrap to ensure UI consistency, and Redux for global state management, collaborating with the Project Manager and UI/UX and backend teams to implement features, integrating RESTful APIs with React Query (TanStack Query) to reduce data loading times by optimizing fetch requests and implementing efficient caching mechanisms, building responsive and mobile-first web designs for various devices to increase user accessibility and engagement, and conducting unit testing, debugging, and performance optimization to successfully eliminate production bugs, thereby reducing downtime and user complaints."
-      },
-      "zh": {
-        "role": "前端开发工程师",
-        "period": "2025年3月 - 2025年9月",
-        "type": "合同",
-        "description": "负责使用 Next JS 开发 My Zetta Backoffice（ISP）系统，采用 React Bootstrap 确保 UI 一致性，并使用 Redux 进行全局状态管理，与项目经理以及 UI/UX 和后端团队协作实施各项功能，通过 React Query（TanStack Query）集成 RESTful API，优化数据请求并实施高效的缓存机制，从而减少数据加载时间，构建适用于各种设备的响应式及移动优先网页设计，以提升用户的可访问性和参与度，同时进行单元测试、调试和性能优化，成功消除生产环境中的 Bug，从而减少系统停机时间和用户投诉。"
-      },
-      "ja": {
-        "role": "フロントエンド開発者",
-        "period": "2025年3月～2025年9月",
-        "type": "契約",
-        "description": "Next JSを使用してMy Zetta Backoffice（ISP）システムを開発し、UIの一貫性を確保するためにReact Bootstrapを、グローバルな状態管理のためにReduxを活用するとともに、プロジェクトマネージャーおよびUI/UX・バックエンドチームと連携して機能を実装し、React Query（TanStack Query）を使用してRESTful APIを統合し、データ取得リクエストの最適化と効率的なキャッシュ機構の導入によってデータの読み込み時間を短縮し、さまざまなデバイスに対応したレスポンシブかつモバイルファーストなWebデザインを構築してユーザーのアクセシビリティとエンゲージメントを向上させ、さらにユニットテスト、デバッグ、パフォーマンス最適化を実施して本番環境のバグを解消し、ダウンタイムとユーザーからの苦情を削減しました。"
-      },
-      "hi": {
-        "role": "अग्रणी डेवलपर",
-        "period": "मार्च 2025 - सितंबर 2025",
-        "type": "अनुबंध",
-        "description": "Next JS का उपयोग करके My Zetta Backoffice (ISP) सिस्टम विकसित करने, UI की एकरूपता बनाए रखने के लिए React Bootstrap और ग्लोबल स्टेट मैनेजमेंट के लिए Redux का उपयोग करने, Project Manager तथा UI/UX और बैकएंड टीमों के साथ मिलकर फीचर्स को लागू करने, React Query (TanStack Query) के माध्यम से RESTful APIs को इंटीग्रेट करके fetch requests को ऑप्टिमाइज़ करने और प्रभावी caching mechanisms लागू करके डेटा लोडिंग समय को कम करने, विभिन्न डिवाइसों के लिए responsive और mobile-first वेब डिज़ाइन तैयार करके उपयोगकर्ता की accessibility और engagement बढ़ाने, तथा unit testing, debugging और performance optimization के माध्यम से production bugs को सफलतापूर्वक समाप्त करने की जिम्मेदारी संभाली, जिससे downtime और user complaints में कमी आई।"
-      }
-    },
-    "techStack": [
-      "Next.js",
-      "Javascript",
-      "Bootstrap",
-      "Redux",
-      "Tanstack Query"
-    ]
+    "techStack": ["PHP", "Laravel", ".NET"]
   }
 ]

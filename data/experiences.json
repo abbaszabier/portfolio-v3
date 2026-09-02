@@ -83,7 +83,8 @@
       "Progressive Web Apps (PWA)",
       "GraphQL",
       "Websocket",
-      "Tanstack Query"
+      "Tanstack Query",
+      "Zustand"
     ]
   },
   {

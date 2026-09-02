@@ -64,5 +64,11 @@
     "category": "Frontend",
     "name": "Shadcn UI",
     "level": 80
+  },
+  {
+    "id": "0e1db8f7-9d3d-4b68-ac5a-fc74d82a93b9",
+    "category": "Frontend",
+    "name": "Claude Agent AI",
+    "level": 70
   }
 ]

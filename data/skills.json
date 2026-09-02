@@ -70,5 +70,11 @@
     "category": "Frontend",
     "name": "Claude Agent AI",
     "level": 70
+  },
+  {
+    "id": "5ceefbd6-a128-495f-911f-f5a4e31b32e0",
+    "category": "Frontend",
+    "name": "Redux",
+    "level": 70
   }
 ]

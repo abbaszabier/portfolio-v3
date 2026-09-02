@@ -30,12 +30,6 @@
     "level": 75
   },
   {
-    "id": "6",
-    "category": "Backend",
-    "name": "PostgreSQL",
-    "level": 70
-  },
-  {
     "id": "7",
     "category": "Backend",
     "name": "REST API",

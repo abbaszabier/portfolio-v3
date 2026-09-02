@@ -246,7 +246,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     },
     footer: {
       rights: "版权所有。",
-      builtWith: "由 Abbas Zabier Mohammad 使用 ❤️ 构建",
+      builtWith: "由 Abbas Zabier Mohammad 用 ❤️ 打造",
     },
     home: {
       badge: "欢迎新的合作机会",
@@ -316,13 +316,13 @@ const dictionaries: Record<Locale, Dictionary> = {
     nav: {
       home: "ホーム",
       project: "プロジェクト",
-      about: "概要",
+      about: "自己紹介",
       contact: "お問い合わせ",
       language: "言語",
     },
     footer: {
       rights: "全著作権所有。",
-      builtWith: "Abbas Zabier Mohammad による ❤️ で構築",
+      builtWith: "Abbas Zabier Mohammad が ❤️ を込めて制作",
     },
     home: {
       badge: "新しい機会を歓迎しています",

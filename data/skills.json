@@ -28,5 +28,11 @@
     "category": "Frontend",
     "name": "REST API",
     "level": 80
+  },
+  {
+    "id": "2e67e706-43d4-459e-a87a-d592a9d5dace",
+    "category": "Frontend",
+    "name": "Next.js",
+    "level": 80
   }
 ]

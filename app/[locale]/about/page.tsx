@@ -27,14 +27,11 @@ export default async function AboutPage({
   const frontend = skills
     .filter((s) => s.category === "Frontend")
     .map((s) => s.name);
-  const otherCategories = Array.from(
-    new Set(
-      skills.filter((s) => s.category !== "Frontend").map((s) => s.category),
-    ),
-  );
 
   const hasPhoto = existsSync(join(process.cwd(), "public", "profile.jpg"));
-  const hasCv = existsSync(join(process.cwd(), "public", "cv.pdf"));
+  const hasCv = existsSync(
+    join(process.cwd(), "public", "CV Abbas Zabier Mohammad.pdf"),
+  );
 
   return (
     <div className="relative flex flex-1 flex-col">
@@ -80,7 +77,7 @@ export default async function AboutPage({
                   nativeButton={false}
                   render={
                     <a
-                      href={hasCv ? "/cv.pdf" : "#"}
+                      href={hasCv ? "/CV Abbas Zabier Mohammad.pdf" : "#"}
                       download
                       target="_blank"
                       rel="noopener noreferrer"
@@ -119,27 +116,6 @@ export default async function AboutPage({
 
           <Reveal delay={100} className="mt-10">
             <SkillMarquee items={frontend} />
-          </Reveal>
-
-          <Reveal delay={180} className="mt-12 px-6">
-            <div className="flex flex-col gap-6 sm:flex-row sm:gap-16">
-              {otherCategories.map((category) => (
-                <div key={category}>
-                  <p className="text-xs font-medium uppercase tracking-widest text-muted-foreground">
-                    {dict.about.categories[category]}
-                  </p>
-                  <div className="mt-3 flex flex-wrap gap-x-4 gap-y-2">
-                    {skills
-                      .filter((s) => s.category === category)
-                      .map((s) => (
-                        <span key={s.id} className="text-sm text-foreground/80">
-                          {s.name}
-                        </span>
-                      ))}
-                  </div>
-                </div>
-              ))}
-            </div>
           </Reveal>
 
           <div className="mx-auto mt-24 max-w-3xl px-6">

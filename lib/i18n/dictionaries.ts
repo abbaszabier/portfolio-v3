@@ -82,7 +82,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     meta: {
       title: "Abbas Zabier Mohammad — Portfolio",
       description:
-        "Portfolio software engineer yang dibangun dengan Next.js, Tailwind CSS, dan shadcn/ui.",
+        "Portfolio frontend engineer yang dibangun dengan Next.js/React.js, Tailwind CSS, dan shadcn/ui.",
     },
     nav: {
       home: "Home",
@@ -100,7 +100,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       greeting: "Halo, saya",
       name: "Abbas Zabier.",
       subtitle:
-        "Software engineer yang membangun aplikasi web modern dengan Next.js, TypeScript, dan Tailwind CSS.",
+        "Frontend engineer yang membangun aplikasi web modern dengan Next.js/React.js, TypeScript, dan Tailwind CSS.",
       ctaProject: "Lihat Project",
       ctaContact: "Hubungi Saya",
       sectionLabel: "Project",
@@ -124,7 +124,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     about: {
       label: "Tentang Saya",
       name: "Abbas Zabier Mohammad",
-      bio: "Software engineer yang fokus membangun aplikasi web modern dan antarmuka yang rapi menggunakan Next.js, TypeScript, dan Tailwind CSS. Senang berkolaborasi lintas tim untuk mengubah ide jadi produk yang enak dipakai.",
+      bio: "Frontend engineer yang fokus membangun aplikasi web modern dan antarmuka yang rapi menggunakan Next.js, TypeScript, dan Tailwind CSS. Senang berkolaborasi lintas tim untuk mengubah ide jadi produk yang enak dipakai.",
       downloadCv: "Download CV",
       photoFallback: "Taruh foto di public/profile.jpg",
       cvFallback: "Taruh file di public/cv.pdf",
@@ -138,7 +138,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       label: "Contact",
       title: "Mari terhubung",
       subtitle:
-        "Ada project, peluang kerja, atau sekadar mau ngobrol? Kirim pesan lewat form di bawah, saya akan balas ke email kamu.",
+        "Ada project, peluang kerja, atau sekadar mau ngobrol? Kirim pesan lewat form di bawah, saya akan balas pesan kamu.",
       formName: "Nama",
       formNamePlaceholder: "Nama kamu",
       formEmail: "Email",
@@ -159,7 +159,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     meta: {
       title: "Abbas Zabier Mohammad — Portfolio",
       description:
-        "Software engineer portfolio built with Next.js, Tailwind CSS, and shadcn/ui.",
+        "Frontend engineer portfolio built with Next.js/React.js, Tailwind CSS, and shadcn/ui.",
     },
     nav: {
       home: "Home",
@@ -177,7 +177,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       greeting: "Hi, I'm",
       name: "Abbas Zabier.",
       subtitle:
-        "Software engineer building modern web apps with Next.js, TypeScript, and Tailwind CSS.",
+        "Frontend engineer building modern web apps with Next.js/React.js, TypeScript, and Tailwind CSS.",
       ctaProject: "View Projects",
       ctaContact: "Contact Me",
       sectionLabel: "Projects",
@@ -201,7 +201,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     about: {
       label: "About Me",
       name: "Abbas Zabier Mohammad",
-      bio: "Software engineer focused on building modern web apps and clean interfaces using Next.js, TypeScript, and Tailwind CSS. I enjoy collaborating across teams to turn ideas into products people love using.",
+      bio: "Frontend engineer focused on building modern web apps and clean interfaces using Next.js/React.js, TypeScript, and Tailwind CSS. I enjoy collaborating across teams to turn ideas into products people love using.",
       downloadCv: "Download CV",
       photoFallback: "Add a photo at public/profile.jpg",
       cvFallback: "Add a file at public/cv.pdf",
@@ -215,7 +215,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       label: "Contact",
       title: "Let's connect",
       subtitle:
-        "Have a project, job opportunity, or just want to chat? Send a message via the form below and I'll reply to your email.",
+        "Have a project, a job opportunity, or just want to chat? Send a message using the form below, and I’ll get back to you.",
       formName: "Name",
       formNamePlaceholder: "Your name",
       formEmail: "Email",
@@ -235,7 +235,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     meta: {
       title: "Abbas Zabier Mohammad — 作品集",
       description:
-        "使用 Next.js、Tailwind CSS 和 shadcn/ui 构建的软件工程师作品集。",
+        "使用 Next.js/React.js、Tailwind CSS 和 shadcn/ui 构建的前端工程师作品集。",
     },
     nav: {
       home: "首页",
@@ -253,7 +253,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       greeting: "你好，我是",
       name: "Abbas Zabier。",
       subtitle:
-        "软件工程师，使用 Next.js、TypeScript 和 Tailwind CSS 构建现代网页应用。",
+        "前端工程师，使用 Next.js、TypeScript 和 Tailwind CSS 构建现代网页应用。",
       ctaProject: "查看项目",
       ctaContact: "联系我",
       sectionLabel: "项目",
@@ -277,7 +277,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     about: {
       label: "关于我",
       name: "Abbas Zabier Mohammad",
-      bio: "软件工程师，专注于使用 Next.js、TypeScript 和 Tailwind CSS 构建现代网页应用与简洁的界面。喜欢跨团队协作，把想法变成好用的产品。",
+      bio: "前端工程师，专注于使用 Next.js/React.js、TypeScript 和 Tailwind CSS 构建现代网页应用与简洁的界面。喜欢跨团队协作，把想法变成好用的产品。",
       downloadCv: "下载简历",
       photoFallback: "请将照片放在 public/profile.jpg",
       cvFallback: "请将文件放在 public/cv.pdf",
@@ -291,7 +291,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       label: "联系",
       title: "一起聊聊",
       subtitle:
-        "有项目、工作机会，或只是想聊聊？在下方表单留言，我会回复到你的邮箱。",
+        "如果您有项目、工作机会，或者只是想聊聊，请通过下方表单留言，我会尽快回复您。",
       formName: "姓名",
       formNamePlaceholder: "你的姓名",
       formEmail: "邮箱",
@@ -311,7 +311,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     meta: {
       title: "Abbas Zabier Mohammad — ポートフォリオ",
       description:
-        "Next.js、Tailwind CSS、shadcn/ui で構築したソフトウェアエンジニアのポートフォリオ。",
+        "Next.js/React.js、Tailwind CSS、shadcn/ui で構築したフロントエンドエンジニアのポートフォリオ。",
     },
     nav: {
       home: "ホーム",
@@ -329,7 +329,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       greeting: "こんにちは、",
       name: "Abbasです。",
       subtitle:
-        "Next.js、TypeScript、Tailwind CSSでモダンなWebアプリを開発するソフトウェアエンジニア。",
+        "Next.js、TypeScript、Tailwind CSSでモダンなWebアプリを開発するフロントエンドエンジニア。",
       ctaProject: "プロジェクトを見る",
       ctaContact: "お問い合わせ",
       sectionLabel: "プロジェクト",
@@ -353,7 +353,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     about: {
       label: "自己紹介",
       name: "Abbas Zabier Mohammad",
-      bio: "Next.js、TypeScript、Tailwind CSSを用いたモダンなWebアプリとシンプルなUI構築を得意とするソフトウェアエンジニア。チームを超えて協業し、アイデアを使いやすいプロダクトへと形にすることにやりがいを感じています。",
+      bio: "Next.js/React.js、TypeScript、Tailwind CSSを用いたモダンなWebアプリとシンプルなUI構築を得意とするフロントエンドエンジニア。チームを超えて協業し、アイデアを使いやすいプロダクトへと形にすることにやりがいを感じています。",
       downloadCv: "履歴書をダウンロード",
       photoFallback: "public/profile.jpg に写真を配置してください",
       cvFallback: "public/cv.pdf にファイルを配置してください",
@@ -371,7 +371,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       label: "お問い合わせ",
       title: "気軽にご連絡ください",
       subtitle:
-        "プロジェクトのご相談、お仕事のオファー、ちょっとした雑談でも構いません。下のフォームからメッセージを送ってください。メールで返信します。",
+        "プロジェクトや仕事のご依頼、あるいは単にお話ししたいという場合でも、お気軽に以下のフォームからメッセージをお送りください。折り返しご連絡いたします。",
       formName: "お名前",
       formNamePlaceholder: "お名前を入力",
       formEmail: "メールアドレス",
@@ -392,7 +392,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     meta: {
       title: "Abbas Zabier Mohammad — पोर्टफोलियो",
       description:
-        "Next.js, Tailwind CSS और shadcn/ui से बना सॉफ्टवेयर इंजीनियर पोर्टफोलियो।",
+        "Next.js/React.js, Tailwind CSS और shadcn/ui से बना फ्रंटएंड इंजीनियर पोर्टफोलियो।",
     },
     nav: {
       home: "होम",
@@ -410,7 +410,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       greeting: "नमस्ते, मैं हूँ",
       name: "Abbas Zabier.",
       subtitle:
-        "एक सॉफ्टवेयर इंजीनियर जो Next.js, TypeScript और Tailwind CSS से आधुनिक वेब ऐप बनाता है।",
+        "फ्रंटएंड इंजीनियर जो Next.js/React.js, TypeScript और Tailwind CSS का इस्तेमाल करके मॉडर्न वेब ऐप्स बनाते हैं।",
       ctaProject: "प्रोजेक्ट देखें",
       ctaContact: "मुझसे संपर्क करें",
       sectionLabel: "प्रोजेक्ट",
@@ -434,7 +434,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     about: {
       label: "मेरे बारे में",
       name: "Abbas Zabier Mohammad",
-      bio: "एक सॉफ्टवेयर इंजीनियर जो Next.js, TypeScript और Tailwind CSS का उपयोग करके आधुनिक वेब ऐप और सुव्यवस्थित इंटरफ़ेस बनाने पर केंद्रित है। विचारों को उपयोग में आसान प्रोडक्ट में बदलने के लिए टीमों के साथ मिलकर काम करना पसंद है।",
+      bio: "एक फ्रंटएंड इंजीनियर जो Next.js, TypeScript और Tailwind CSS का उपयोग करके मॉडर्न वेब ऐप और सुव्यवस्थित इंटरफ़ेस बनाने पर केंद्रित है। विचारों को उपयोग में आसान प्रोडक्ट में बदलने के लिए टीमों के साथ मिलकर काम करना पसंद है।",
       downloadCv: "सीवी डाउनलोड करें",
       photoFallback: "फ़ोटो public/profile.jpg में रखें",
       cvFallback: "फ़ाइल public/cv.pdf में रखें",
@@ -448,7 +448,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       label: "संपर्क",
       title: "आइए जुड़ें",
       subtitle:
-        "कोई प्रोजेक्ट, जॉब का अवसर, या बस बात करना चाहते हैं? नीचे दिए फॉर्म से मैसेज भेजें, मैं आपके ईमेल पर जवाब दूँगा।",
+        "क्या आपके पास कोई प्रोजेक्ट या नौकरी का मौका है, या आप बस बातचीत करना चाहते हैं? नीचे दिए गए फ़ॉर्म का इस्तेमाल करके मैसेज भेजें, और मैं आपसे संपर्क करूँगा।",
       formName: "नाम",
       formNamePlaceholder: "आपका नाम",
       formEmail: "ईमेल",

@@ -39,7 +39,7 @@ export default async function Home({
           {dict.home.badge}
         </div>
 
-        <h1 className="animate-in fade-in slide-in-from-bottom-4 mt-6 font-heading text-5xl font-semibold leading-[0.95] tracking-tight delay-100 duration-700 sm:text-8xl md:text-9xl">
+        <h1 className="animate-in fade-in slide-in-from-bottom-4 mt-6 font-heading text-[51px] font-semibold leading-[0.95] tracking-tight delay-100 duration-700 sm:text-8xl md:text-9xl">
           {dict.home.greeting}
           <br />
           {dict.home.name}

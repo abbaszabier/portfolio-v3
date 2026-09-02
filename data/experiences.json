@@ -1,43 +1,44 @@
 [
   {
     "id": "1",
-    "company": "PT Digital Kreasi Nusantara",
+    "company": "Inkor Group",
     "translations": {
       "id": {
-        "role": "Frontend Engineer",
-        "period": "2024 — Sekarang",
-        "type": "Full-time",
-        "description": "Membangun dan memelihara dashboard internal berbasis Next.js dan TypeScript, berkolaborasi dengan tim desain untuk implementasi UI yang konsisten."
+        "role": "Frontend Developer",
+        "period": "Agu 2024 – Feb 2025",
+        "type": "Kontrak",
+        "description": "Bertanggung jawab mengembangkan platform Chappy (LMS) dari awal menggunakan React JS dan Tailwind CSS dengan membangun arsitektur frontend yang scalable dan mudah dipelihara, berkolaborasi dengan stakeholder serta tim UI/UX dan backend dalam implementasi fitur, mengintegrasikan RESTful API dengan React Query (TanStack Query) untuk mengoptimalkan pengambilan, caching, dan sinkronisasi data sehingga menghasilkan alur data yang lebih lancar dan performa yang lebih baik, membangun desain web responsif untuk berbagai perangkat, serta melakukan unit testing, debugging, dan perbaikan bug."
       },
       "en": {
-        "role": "Frontend Engineer",
-        "period": "2024 — Present",
-        "type": "Full-time",
-        "description": "Building and maintaining internal dashboards with Next.js and TypeScript, collaborating with the design team on consistent UI implementation."
+        "role": "Frontend Developer",
+        "period": "Aug 2024 - Feb 2025",
+        "type": "Contract",
+        "description": "Responsible for developing the Chappy (LMS) platform from scratch using React JS and Tailwind CSS, delivering a scalable and maintainable frontend architecture, collaborating with stakeholders and UI/UX and backend teams to implement features, integrating RESTful APIs with React Query (TanStack Query) to optimize data fetching, caching, and synchronization for smoother data flow and improved performance, building responsive web designs for various devices, and conducting unit testing, debugging, and bug fixing."
       },
       "zh": {
-        "role": "前端工程师",
-        "period": "2024年至今",
-        "type": "全职",
-        "description": "使用 Next.js 和 TypeScript 构建并维护内部管理后台，与设计团队协作实现一致的界面。"
+        "role": "前端开发工程师",
+        "period": "2024年8月至2025年2月",
+        "type": "合同",
+        "description": "React JSとTailwind CSSを使用してChappy（LMS）プラットフォームをゼロから開発し、スケーラブルで保守性の高いフロントエンドアーキテクチャを構築するとともに、ステークホルダーおよびUI/UX・バックエンドチームと連携して機能を実装し、React Query（TanStack Query）を使用してRESTful APIを統合し、データ取得、キャッシュ、同期を最適化することで、よりスムーズなデータフローとパフォーマンス向上を実現し、さまざまなデバイスに対応したレスポンシブWebデザインを構築し、さらにユニットテスト、デバッグ、バグ修正を実施しました。"
       },
       "ja": {
-        "role": "フロントエンドエンジニア",
-        "period": "2024年 — 現在",
-        "type": "正社員",
-        "description": "Next.jsとTypeScriptを用いた社内ダッシュボードの構築・保守を担当し、デザインチームと連携して一貫性のあるUIを実装。"
+        "role": "フロントエンド開発者",
+        "period": "2024年8月～2025年2月",
+        "type": "契約",
+        "description": "React JSとTailwind CSSを使用してChappy（LMS）プラットフォームをゼロから開発し、スケーラブルで保守性の高いフロントエンドアーキテクチャを構築するとともに、ステークホルダーおよびUI/UX・バックエンドチームと連携して機能を実装し、React Query（TanStack Query）を使用してRESTful APIを統合し、データ取得、キャッシュ、同期を最適化することで、よりスムーズなデータフローとパフォーマンス向上を実現し、さまざまなデバイスに対応したレスポンシブWebデザインを構築し、さらにユニットテスト、デバッグ、バグ修正を実施しました。"
       },
       "hi": {
-        "role": "फ्रंटएंड इंजीनियर",
-        "period": "2024 — वर्तमान",
-        "type": "फुल-टाइम",
-        "description": "Next.js और TypeScript पर आधारित इंटरनल डैशबोर्ड बनाना और मेंटेन करना, तथा डिज़ाइन टीम के साथ मिलकर सुसंगत UI लागू करना।"
+        "role": "अग्रणी डेवलपर",
+        "period": "अगस्त 2024 - फरवरी 2025",
+        "type": "अनुबंध",
+        "description": "React JS और Tailwind CSS का उपयोग करके Chappy (LMS) प्लेटफ़ॉर्म को शुरू से विकसित करने और स्केलेबल एवं आसानी से मेंटेन किए जा सकने वाले फ्रंटएंड आर्किटेक्चर को तैयार करने, स्टेकहोल्डर्स तथा UI/UX और बैकएंड टीमों के साथ मिलकर फीचर्स को लागू करने, React Query (TanStack Query) के माध्यम से RESTful APIs को इंटीग्रेट करके डेटा फ़ेचिंग, कैशिंग और सिंक्रोनाइज़ेशन को ऑप्टिमाइज़ करने तथा बेहतर डेटा फ्लो और परफॉर्मेंस प्रदान करने, विभिन्न डिवाइसों के लिए रिस्पॉन्सिव वेब डिज़ाइन बनाने, और यूनिट टेस्टिंग, डिबगिंग एवं बग फिक्सिंग करने की जिम्मेदारी संभाली।"
       }
     },
     "techStack": [
-      "Next.js",
-      "TypeScript",
-      "Tailwind CSS"
+      "React.js",
+      "Tailwind CSS",
+      "Tanstack Query",
+      "Progressive Web Apps"
     ]
   },
   {

@@ -40,5 +40,11 @@
     "category": "Frontend",
     "name": "Tanstack Query",
     "level": 75
+  },
+  {
+    "id": "78c6b05b-6be8-45ef-9379-c6804ec50462",
+    "category": "Frontend",
+    "name": "Chakra UI",
+    "level": 90
   }
 ]

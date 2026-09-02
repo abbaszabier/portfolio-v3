@@ -24,12 +24,6 @@
     "level": 90
   },
   {
-    "id": "5",
-    "category": "Backend",
-    "name": "Node.js",
-    "level": 75
-  },
-  {
     "id": "7",
     "category": "Backend",
     "name": "REST API",

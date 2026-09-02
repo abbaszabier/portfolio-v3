@@ -83,42 +83,43 @@
   },
   {
     "id": "3",
-    "company": "Berbagai Klien",
+    "company": "DSITD IPB",
     "translations": {
       "id": {
-        "role": "Freelance Web Developer",
-        "period": "2021 — 2022",
-        "type": "Freelance",
-        "description": "Mengerjakan berbagai proyek website untuk UMKM dan personal branding, dari landing page hingga sistem sederhana."
+        "role": "Frontend Developer",
+        "period": "Feb 2022 - Mar 2023",
+        "type": "Magang",
+        "description": "Bertanggung jawab mengembangkan beberapa proyek dari awal menggunakan PHP, Laravel, dan .NET, berkolaborasi dengan tim UI/UX dan backend dalam mengimplementasikan fitur, mengintegrasikan API antara frontend dan backend (RESTful API), membangun desain web responsif untuk berbagai perangkat, serta melakukan unit testing, debugging, dan perbaikan bug."
       },
       "en": {
-        "role": "Freelance Web Developer",
-        "period": "2021 — 2022",
-        "type": "Freelance",
-        "description": "Worked on various website projects for small businesses and personal branding, from landing pages to simple systems."
+        "role": "Frontend Developer",
+        "period": "Feb 2022 - Mar 2023",
+        "type": "Internship",
+        "description": "Responsible for developing several projects from scratch using PHP, Laravel, and .NET, collaborating with UI/UX and backend teams to implement features, integrating APIs between frontend and backend (RESTful API), building responsive web designs for various devices, and conducting unit testing, debugging, and bug fixing."
       },
       "zh": {
-        "role": "自由职业网页开发者",
-        "period": "2021年—2022年",
-        "type": "自由职业",
-        "description": "为中小企业和个人品牌承接各类网站项目，从落地页到简单系统均有涉及。"
+        "role": "前端开发工程师",
+        "period": "2022年2月 - 2023年3月",
+        "type": "实习",
+        "description": "负责使用 PHP、Laravel 和 .NET 从零开始开发多个项目，与 UI/UX 和后端团队协作实现功能，集成前端与后端之间的 API（RESTful API），为各种设备构建响应式网页设计，并进行单元测试、调试和 Bug 修复。"
       },
       "ja": {
-        "role": "フリーランスWeb開発者",
-        "period": "2021年 — 2022年",
-        "type": "フリーランス",
-        "description": "中小企業や個人ブランディング向けに、ランディングページからシンプルなシステムまで様々なWebサイト制作を担当。"
+        "role": "フロントエンド開発者",
+        "period": "2022年2月～2023年3月",
+        "type": "インターンシップ",
+        "description": "PHP、Laravel、.NETを使用して複数のプロジェクトをゼロから開発し、UI/UXおよびバックエンドチームと連携して機能を実装するとともに、フロントエンドとバックエンド間のAPI（RESTful API）を統合し、さまざまなデバイスに対応したレスポンシブWebデザインを構築し、ユニットテスト、デバッグ、バグ修正を実施しました。"
       },
       "hi": {
-        "role": "फ्रीलांस वेब डेवलपर",
-        "period": "2021 — 2022",
-        "type": "फ्रीलांस",
-        "description": "छोटे व्यवसायों और पर्सनल ब्रांडिंग के लिए लैंडिंग पेज से लेकर सरल सिस्टम तक कई वेबसाइट प्रोजेक्ट्स पर काम किया।"
+        "role": "अग्रणी डेवलपर",
+        "period": "फ़रवरी 2022 - मार्च 2023",
+        "type": "प्रशिक्षण",
+        "description": "PHP, Laravel और .NET का उपयोग करके कई प्रोजेक्ट्स को शुरू से विकसित करने, UI/UX और बैकएंड टीमों के साथ मिलकर फीचर्स को लागू करने, फ्रंटएंड और बैकएंड के बीच API (RESTful API) को इंटीग्रेट करने, विभिन्न डिवाइसों के लिए रिस्पॉन्सिव वेब डिज़ाइन बनाने तथा यूनिट टेस्टिंग, डिबगिंग और बग फिक्सिंग करने की जिम्मेदारी संभाली।"
       }
     },
     "techStack": [
-      "React",
-      "Firebase"
+      "PHP",
+      "Laravel",
+      ".NET"
     ]
   }
 ]

@@ -67,7 +67,7 @@ export function ProjectCard({
             </p>
           </div>
 
-          <div className="relative flex w-full shrink-0 items-center justify-center overflow-hidden rounded-xl bg-muted">
+          <div className="relative flex w-full shrink-0 items-center justify-center overflow-hidden rounded-sm bg-muted">
             {project.image ? (
               <Image
                 src={project.image}

@@ -11,10 +11,18 @@ import { isLocale } from "@/lib/i18n/locales";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 
 const SOCIALS = [
-  { href: "https://github.com/", label: "GitHub", icon: GithubIcon },
-  { href: "https://linkedin.com/", label: "LinkedIn", icon: LinkedinIcon },
-  { href: "https://instagram.com/", label: "Instagram", icon: InstagramIcon },
-  { href: "mailto:hello@example.com", label: "Email", icon: Mail },
+  { href: "https://github.com/abbaszabier", label: "GitHub", icon: GithubIcon },
+  {
+    href: "https://linkedin.com/in/abbaszabier",
+    label: "LinkedIn",
+    icon: LinkedinIcon,
+  },
+  {
+    href: "https://instagram.com/abzabier_",
+    label: "Instagram",
+    icon: InstagramIcon,
+  },
+  { href: "mailto:abbas.zabier06@gmail.com", label: "Email", icon: Mail },
 ];
 
 export default async function Home({

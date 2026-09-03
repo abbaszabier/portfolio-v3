@@ -67,16 +67,17 @@ export function ProjectCard({
             </p>
           </div>
 
-          <div className="relative flex aspect-video w-full shrink-0 items-center justify-center overflow-hidden rounded-xl bg-muted">
+          <div className="relative flex w-full shrink-0 items-center justify-center overflow-hidden rounded-xl bg-muted">
             {project.image ? (
               <Image
                 src={project.image}
                 alt={project.name}
-                fill
-                className="object-cover"
+                width={1600}
+                height={900}
+                className="w-full h-auto object-contain"
               />
             ) : (
-              <p className="px-6 text-center text-xs text-muted-foreground">
+              <p className="px-6 text-center text-xs text-muted-foreground py-12">
                 {dict.project.imageFallback}
               </p>
             )}

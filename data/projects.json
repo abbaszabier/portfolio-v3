@@ -232,10 +232,12 @@
       "Next.js",
       "TypeScript",
       "Tailwind CSS",
-      "Chart.js"
+      "Zustand",
+      "PWA",
+      "Tanstack Query"
     ],
     "link": "",
-    "image": "",
+    "image": "/projects/cryptobridge.png",
     "platform": "Web Application"
   },
   {

@@ -113,7 +113,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       subtitle: "Daftar project yang pernah saya kerjakan.",
       statTotal: "Total Project",
       statTech: "Tech Stack Dipakai",
-      statActive: "Project Aktif",
+      statActive: "Total Klien",
     },
     project: {
       whatIDid: "Apa yang saya lakukan",
@@ -190,7 +190,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       subtitle: "A list of projects I've worked on.",
       statTotal: "Total Projects",
       statTech: "Tech Stacks Used",
-      statActive: "Active Projects",
+      statActive: "Total Clients",
     },
     project: {
       whatIDid: "What I did",
@@ -266,7 +266,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       subtitle: "我曾参与开发的项目列表。",
       statTotal: "项目总数",
       statTech: "使用的技术栈",
-      statActive: "进行中的项目",
+      statActive: "活跃项目数",
     },
     project: {
       whatIDid: "我做了什么",
@@ -342,7 +342,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       subtitle: "これまで手がけたプロジェクトの一覧です。",
       statTotal: "プロジェクト総数",
       statTech: "使用した技術スタック",
-      statActive: "進行中のプロジェクト",
+      statActive: "アクティブなプロジェクト数",
     },
     project: {
       whatIDid: "取り組んだこと",
@@ -423,7 +423,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       subtitle: "मेरे द्वारा किए गए प्रोजेक्ट्स की सूची।",
       statTotal: "कुल प्रोजेक्ट",
       statTech: "इस्तेमाल की गई टेक स्टैक",
-      statActive: "सक्रिय प्रोजेक्ट",
+      statActive: "कुल क्लाइंट",
     },
     project: {
       whatIDid: "मैंने क्या किया",

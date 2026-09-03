@@ -109,11 +109,13 @@
     "techStack": [
       "React",
       "TypeScript",
-      "Tailwind CSS",
-      "Redux"
+      "Shadcn UI",
+      "Zaustand",
+      "PWA",
+      "Tanstack Query"
     ],
-    "link": "",
-    "image": "",
+    "link": "https://v3.titanapp.id/",
+    "image": "/projects/titanunictive.png",
     "platform": "Web Application"
   },
   {

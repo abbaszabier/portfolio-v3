@@ -350,12 +350,15 @@
       }
     },
     "techStack": [
-      "React",
-      "TypeScript",
-      "Tailwind CSS"
+      "React.js",
+      "Javascript",
+      "Chakra UI",
+      "Zustand",
+      "Tanstack Query",
+      "GraphQL"
     ],
-    "link": "",
-    "image": "",
+    "link": "https://github.com/abbaszabier/diyopos",
+    "image": "/projects/diyo.webp",
     "platform": "Web Application"
   },
   {

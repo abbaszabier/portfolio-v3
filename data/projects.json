@@ -168,7 +168,7 @@
       }
     },
     "techStack": [
-      "Next",
+      "Next.js",
       "TypeScript",
       "Shadcn UI",
       "Zustand",

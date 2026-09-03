@@ -1,24 +1,24 @@
-import { Sparkle } from "lucide-react"
-import { cn } from "@/lib/utils"
+import { Sparkle } from "lucide-react";
+import { cn } from "@/lib/utils";
 
 export function SkillMarquee({
   items,
   className,
   reverse = false,
-  duration = 24,
+  duration = 32,
 }: {
-  items: string[]
-  className?: string
-  reverse?: boolean
-  duration?: number
+  items: string[];
+  className?: string;
+  reverse?: boolean;
+  duration?: number;
 }) {
-  const track = [...items, ...items]
+  const track = [...items, ...items];
 
   return (
     <div
       className={cn(
         "group relative w-full overflow-hidden [mask-image:linear-gradient(to_right,transparent,#000_8%,#000_92%,transparent)]",
-        className
+        className,
       )}
     >
       <div
@@ -42,5 +42,5 @@ export function SkillMarquee({
         ))}
       </div>
     </div>
-  )
+  );
 }

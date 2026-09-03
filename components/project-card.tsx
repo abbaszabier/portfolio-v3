@@ -20,17 +20,15 @@ export function ProjectCard({
 }) {
   return (
     <Dialog>
-      <DialogTrigger className="group relative flex h-full min-h-[19rem] flex-col justify-between overflow-hidden rounded-3xl bg-card p-8 text-left shadow-sm ring-1 ring-border transition-all duration-300 hover:-translate-y-1.5 hover:bg-muted/60 hover:shadow-xl cursor-pointer">
+      <DialogTrigger className="group relative flex w-full h-full min-h-[19rem] flex-col justify-between overflow-hidden rounded-3xl bg-card p-8 text-left shadow-sm ring-1 ring-border transition-all duration-300 hover:-translate-y-1.5 hover:bg-muted/60 hover:shadow-xl cursor-pointer">
         <div
           aria-hidden
           className="pointer-events-none absolute -right-10 -top-10 size-40 rounded-full bg-foreground/5 blur-2xl transition-transform duration-500 group-hover:translate-x-3 group-hover:-translate-y-3"
         />
-
         <Sparkle
           aria-hidden
           className="absolute right-6 top-6 size-6 scale-50 fill-brand/50 text-brand/50 opacity-0 transition-all duration-500 group-hover:scale-100 group-hover:rotate-12 group-hover:opacity-100"
         />
-
         <div>
           <p className="text-xs font-semibold uppercase tracking-widest text-brand">
             {project.techStack[0]}
@@ -42,7 +40,6 @@ export function ProjectCard({
             {project.description}
           </p>
         </div>
-
         <div className="mt-6 flex items-end justify-between gap-4">
           <div className="flex flex-wrap gap-2">
             {project.techStack.slice(0, 3).map((tech) => (

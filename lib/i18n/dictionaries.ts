@@ -124,7 +124,7 @@ const dictionaries: Record<Locale, Dictionary> = {
     about: {
       label: "Tentang Saya",
       name: "Abbas Zabier Mohammad",
-      bio: "Frontend engineer yang fokus membangun aplikasi web modern dan antarmuka yang rapi menggunakan Next.js, TypeScript, dan Tailwind CSS. Senang berkolaborasi lintas tim untuk mengubah ide jadi produk yang enak dipakai.",
+      bio: "Frontend engineer yang fokus membangun aplikasi web modern dan antarmuka yang rapi menggunakan Next.js/React.js, TypeScript, dan Tailwind CSS. Senang berkolaborasi lintas tim untuk mengubah ide jadi produk yang enak dipakai.",
       downloadCv: "Download CV",
       photoFallback: "Taruh foto di public/profile.jpg",
       cvFallback: "Taruh file di public/cv.pdf",

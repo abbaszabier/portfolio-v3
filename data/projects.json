@@ -168,7 +168,7 @@
       }
     },
     "techStack": [
-      "Next",
+      "Next.js",
       "TypeScript",
       "Shadcn UI",
       "Zustand",
@@ -232,10 +232,12 @@
       "Next.js",
       "TypeScript",
       "Tailwind CSS",
-      "Chart.js"
+      "Zustand",
+      "PWA",
+      "Tanstack Query"
     ],
-    "link": "",
-    "image": "",
+    "link": "https://github.com/abbaszabier/cryptobridge",
+    "image": "/projects/cryptobridge.png",
     "platform": "Web Application"
   },
   {
@@ -288,12 +290,14 @@
       }
     },
     "techStack": [
-      "Next.js",
+      "React.js",
       "TypeScript",
-      "Tailwind CSS"
+      "Tailwind CSS",
+      "Zustand",
+      "Tanstack Query"
     ],
-    "link": "",
-    "image": "",
+    "link": "https://github.com/abbaszabier/chappylms",
+    "image": "/projects/chappylms.webp",
     "platform": "Web Application"
   },
   {
@@ -346,12 +350,15 @@
       }
     },
     "techStack": [
-      "React",
-      "TypeScript",
-      "Tailwind CSS"
+      "React.js",
+      "Javascript",
+      "Chakra UI",
+      "Zustand",
+      "Tanstack Query",
+      "GraphQL"
     ],
-    "link": "",
-    "image": "",
+    "link": "https://github.com/abbaszabier/diyopos",
+    "image": "/projects/diyo.webp",
     "platform": "Web Application"
   },
   {

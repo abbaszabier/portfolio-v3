@@ -48,9 +48,13 @@
         ]
       }
     },
-    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"],
-    "link": "",
-    "image": "",
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
+    "link": "https://www.bca.co.id/id/individu",
+    "image": "/projects/visitorbca",
     "platform": "Web Application"
   },
   {
@@ -102,7 +106,12 @@
         ]
       }
     },
-    "techStack": ["React", "TypeScript", "Tailwind CSS", "Redux"],
+    "techStack": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Redux"
+    ],
     "link": "",
     "image": "",
     "platform": "Web Application"
@@ -156,7 +165,11 @@
         ]
       }
     },
-    "techStack": ["React", "TypeScript", "Tailwind CSS"],
+    "techStack": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
     "link": "",
     "image": "",
     "platform": "Mobile Application"
@@ -210,7 +223,12 @@
         ]
       }
     },
-    "techStack": ["Next.js", "TypeScript", "Tailwind CSS", "Chart.js"],
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Chart.js"
+    ],
     "link": "",
     "image": "",
     "platform": "Web Application"
@@ -264,7 +282,11 @@
         ]
       }
     },
-    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
     "link": "",
     "image": "",
     "platform": "Web Application"
@@ -318,7 +340,11 @@
         ]
       }
     },
-    "techStack": ["React", "TypeScript", "Tailwind CSS"],
+    "techStack": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
     "link": "",
     "image": "",
     "platform": "Web Application"
@@ -372,7 +398,11 @@
         ]
       }
     },
-    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
     "link": "",
     "image": "",
     "platform": "Web Application"
@@ -426,7 +456,11 @@
         ]
       }
     },
-    "techStack": ["React", "TypeScript", "Tailwind CSS"],
+    "techStack": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
     "link": "",
     "image": "",
     "platform": "Web Application"
@@ -480,7 +514,11 @@
         ]
       }
     },
-    "techStack": ["React", "TypeScript", "Tailwind CSS"],
+    "techStack": [
+      "React",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
     "link": "",
     "image": "",
     "platform": "Web Application"
@@ -534,7 +572,11 @@
         ]
       }
     },
-    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "techStack": [
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS"
+    ],
     "link": "",
     "image": "",
     "platform": "Web Application"

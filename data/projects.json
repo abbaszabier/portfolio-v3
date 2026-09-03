@@ -290,12 +290,14 @@
       }
     },
     "techStack": [
-      "Next.js",
+      "React.js",
       "TypeScript",
-      "Tailwind CSS"
+      "Tailwind CSS",
+      "Zustand",
+      "Tanstack Query"
     ],
-    "link": "",
-    "image": "",
+    "link": "https://github.com/abbaszabier",
+    "image": "/projects/chappylms.webp",
     "platform": "Web Application"
   },
   {

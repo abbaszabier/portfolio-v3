@@ -20,9 +20,13 @@ export default async function DashboardPage({
   const uniqueTechCount = new Set(projects.flatMap((p) => p.techStack)).size;
 
   const stats = [
-    { label: dict.dashboard.statTotal, value: projects.length, icon: FolderGit2 },
+    {
+      label: dict.dashboard.statTotal,
+      value: projects.length,
+      icon: FolderGit2,
+    },
     { label: dict.dashboard.statTech, value: uniqueTechCount, icon: Layers },
-    { label: dict.dashboard.statActive, value: projects.length, icon: Sparkles },
+    { label: dict.dashboard.statActive, value: 7, icon: Sparkles },
   ];
 
   return (
@@ -40,7 +44,9 @@ export default async function DashboardPage({
             <h1 className="mt-2 font-heading text-3xl font-semibold tracking-tight sm:text-4xl">
               {dict.dashboard.title}
             </h1>
-            <p className="mt-2 text-sm text-muted-foreground">{dict.dashboard.subtitle}</p>
+            <p className="mt-2 text-sm text-muted-foreground">
+              {dict.dashboard.subtitle}
+            </p>
           </Reveal>
 
           <Reveal delay={80} className="mt-8 grid gap-4 sm:grid-cols-3">

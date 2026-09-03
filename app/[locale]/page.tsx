@@ -74,7 +74,7 @@ export default async function Home({
             size="lg"
             nativeButton={false}
             render={
-              <Link href="mailto:hello@example.com">
+              <Link href="mailto:abbas.zabier06@gmail.com">
                 {dict.home.ctaContact}
               </Link>
             }

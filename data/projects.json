@@ -1,163 +1,541 @@
 [
   {
-    "id": "1",
+    "id": "4",
     "translations": {
       "id": {
-        "name": "E-Commerce Dashboard",
-        "description": "Dashboard admin untuk mengelola produk, pesanan, dan analitik penjualan secara real-time.",
+        "name": "Website BCA (Visitor)",
+        "description": "Website resmi Bank BCA yang menyajikan informasi lengkap seputar produk, layanan, promo, lokasi cabang/ATM, dan berita perusahaan untuk publik.",
         "whatIDid": [
-          "Membangun dashboard admin dari nol dengan Next.js dan TypeScript",
-          "Mengimplementasikan manajemen produk dan pesanan dengan Prisma",
-          "Membuat visualisasi analitik penjualan real-time"
+          "Mengembangkan halaman-halaman frontend yang responsif dan sesuai brand guideline BCA",
+          "Mengimplementasikan komponen UI dinamis terintegrasi dengan CMS",
+          "Mengoptimalkan performa dan SEO untuk kecepatan akses tinggi"
         ]
       },
       "en": {
-        "name": "E-Commerce Dashboard",
-        "description": "Admin dashboard for managing products, orders, and real-time sales analytics.",
+        "name": "BCA Website (Visitor)",
+        "description": "Official Bank BCA website providing comprehensive information on products, services, promotions, branch/ATM locations, and company news for the public.",
         "whatIDid": [
-          "Built the admin dashboard from scratch with Next.js and TypeScript",
-          "Implemented product and order management with Prisma",
-          "Created real-time sales analytics visualizations"
+          "Developed responsive frontend pages aligned with BCA's brand guidelines",
+          "Implemented dynamic UI components integrated with a CMS",
+          "Optimized performance and SEO for fast page loads"
         ]
       },
       "zh": {
-        "name": "电商管理后台",
-        "description": "用于实时管理产品、订单和销售数据分析的管理后台。",
+        "name": "BCA银行官网（访客端）",
+        "description": "BCA银行官方网站，为公众提供产品、服务、促销活动、网点/ATM位置及公司新闻等全面信息。",
         "whatIDid": [
-          "使用 Next.js 和 TypeScript 从零构建管理后台",
-          "使用 Prisma 实现产品与订单管理",
-          "制作实时销售数据可视化"
+          "开发符合BCA品牌规范的响应式前端页面",
+          "实现与CMS集成的动态UI组件",
+          "优化页面性能与SEO以提升访问速度"
         ]
       },
       "ja": {
-        "name": "ECダッシュボード",
-        "description": "商品・注文管理とリアルタイム売上分析ができる管理者向けダッシュボード。",
+        "name": "BCA銀行ウェブサイト（訪問者向け）",
+        "description": "BCA銀行の公式サイトで、商品・サービス、キャンペーン、支店/ATMの所在地、企業ニュースなど公衆向けの総合情報を提供。",
         "whatIDid": [
-          "Next.jsとTypeScriptで管理ダッシュボードをゼロから構築",
-          "Prismaを使った商品・注文管理機能を実装",
-          "リアルタイム売上分析の可視化を作成"
+          "BCAのブランドガイドラインに沿ったレスポンシブなフロントエンドページを開発",
+          "CMSと連携した動的UIコンポーネントを実装",
+          "パフォーマンスとSEOを最適化し表示速度を向上"
         ]
       },
       "hi": {
-        "name": "ई-कॉमर्स डैशबोर्ड",
-        "description": "उत्पाद, ऑर्डर और रीयल-टाइम बिक्री एनालिटिक्स प्रबंधित करने के लिए एडमिन डैशबोर्ड।",
+        "name": "बीसीए वेबसाइट (विज़िटर)",
+        "description": "बीसीए बैंक की आधिकारिक वेबसाइट जो उत्पाद, सेवाओं, प्रमोशन, शाखा/एटीएम लोकेशन और कंपनी समाचार की पूरी जानकारी आम जनता को देती है।",
         "whatIDid": [
-          "Next.js और TypeScript से एडमिन डैशबोर्ड शुरू से बनाया",
-          "Prisma के साथ प्रोडक्ट और ऑर्डर मैनेजमेंट लागू किया",
-          "रीयल-टाइम बिक्री एनालिटिक्स विज़ुअलाइज़ेशन बनाया"
+          "बीसीए की ब्रांड गाइडलाइन के अनुसार रिस्पॉन्सिव फ्रंटएंड पेज विकसित किए",
+          "CMS से जुड़े डायनामिक UI कंपोनेंट लागू किए",
+          "तेज़ लोडिंग के लिए परफॉर्मेंस और SEO ऑप्टिमाइज़ किया"
         ]
       }
     },
-    "techStack": ["Next.js", "TypeScript", "Tailwind CSS", "Prisma"],
-    "link": "https://github.com/example/ecommerce-dashboard",
+    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "link": "",
     "image": "",
     "platform": "Web Application"
   },
   {
-    "id": "2",
+    "id": "5",
     "translations": {
       "id": {
-        "name": "Task Management App",
-        "description": "Aplikasi kolaborasi tim dengan fitur drag-and-drop board, notifikasi, dan integrasi kalender.",
+        "name": "Titan Unictive",
+        "description": "Titan adalah platform terintegrasi untuk mengelola HR, layanan karyawan, aset & inventaris, penjualan, proyek, dan keuangan, sehingga operasional bisnis menjadi lebih efisien, terstruktur, dan transparan dengan pemantauan real-time.",
         "whatIDid": [
-          "Mengembangkan board drag-and-drop dengan React dan Redux",
-          "Membangun REST API dengan Node.js dan PostgreSQL",
-          "Mengintegrasikan notifikasi dan sinkronisasi kalender"
+          "Membangun tampilan frontend untuk berbagai modul (HR, aset, penjualan, proyek, keuangan)",
+          "Mengembangkan dashboard monitoring real-time yang interaktif",
+          "Mengimplementasikan form dan tabel data kompleks dengan performa optimal"
         ]
       },
       "en": {
-        "name": "Task Management App",
-        "description": "Team collaboration app with drag-and-drop boards, notifications, and calendar integration.",
+        "name": "Titan Unictive",
+        "description": "Titan is an integrated platform for managing HR, employee services, assets & inventory, sales, projects, and finance. Making business operations more efficient, structured, and transparent with real-time monitoring.",
         "whatIDid": [
-          "Developed the drag-and-drop board with React and Redux",
-          "Built the REST API with Node.js and PostgreSQL",
-          "Integrated notifications and calendar sync"
+          "Built the frontend for multiple modules (HR, assets, sales, projects, finance)",
+          "Developed an interactive real-time monitoring dashboard",
+          "Implemented complex forms and data tables with optimized performance"
         ]
       },
       "zh": {
-        "name": "任务管理应用",
-        "description": "支持拖拽看板、通知提醒和日历集成的团队协作应用。",
+        "name": "Titan Unictive",
+        "description": "Titan是一个集人力资源、员工服务、资产与库存、销售、项目和财务管理于一体的综合平台，通过实时监控让业务运营更高效、更规范、更透明。",
         "whatIDid": [
-          "使用 React 和 Redux 开发拖拽看板",
-          "使用 Node.js 和 PostgreSQL 构建 REST API",
-          "集成通知提醒与日历同步"
+          "为多个模块（人力资源、资产、销售、项目、财务）构建前端界面",
+          "开发交互式实时监控仪表盘",
+          "实现高性能的复杂表单与数据表格"
         ]
       },
       "ja": {
-        "name": "タスク管理アプリ",
-        "description": "ドラッグ&ドロップボード、通知、カレンダー連携機能を備えたチームコラボレーションアプリ。",
+        "name": "Titan Unictive",
+        "description": "Titanは、人事、従業員サービス、資産・在庫、営業、プロジェクト、財務を一元管理する統合プラットフォーム。リアルタイムモニタリングにより業務運営をより効率的・体系的・透明にする。",
         "whatIDid": [
-          "ReactとReduxでドラッグ&ドロップボードを開発",
-          "Node.jsとPostgreSQLでREST APIを構築",
-          "通知機能とカレンダー連携を実装"
+          "複数モジュール（人事・資産・営業・プロジェクト・財務）のフロントエンドを構築",
+          "インタラクティブなリアルタイム監視ダッシュボードを開発",
+          "パフォーマンスを最適化した複雑なフォームとデータテーブルを実装"
         ]
       },
       "hi": {
-        "name": "टास्क मैनेजमेंट ऐप",
-        "description": "ड्रैग-एंड-ड्रॉप बोर्ड, नोटिफिकेशन और कैलेंडर इंटीग्रेशन वाला टीम सहयोग ऐप।",
+        "name": "Titan Unictive",
+        "description": "Titan एक इंटीग्रेटेड प्लेटफॉर्म है जो HR, कर्मचारी सेवाओं, एसेट व इन्वेंटरी, सेल्स, प्रोजेक्ट्स और फाइनेंस को मैनेज करता है, जिससे रीयल-टाइम मॉनिटरिंग के साथ बिज़नेस ऑपरेशन अधिक कुशल, संरचित और पारदर्शी बनता है।",
         "whatIDid": [
-          "React और Redux से ड्रैग-एंड-ड्रॉप बोर्ड बनाया",
-          "Node.js और PostgreSQL से REST API बनाया",
-          "नोटिफिकेशन और कैलेंडर सिंक इंटीग्रेट किया"
+          "कई मॉड्यूल्स (HR, एसेट, सेल्स, प्रोजेक्ट, फाइनेंस) के लिए फ्रंटएंड बनाया",
+          "इंटरैक्टिव रीयल-टाइम मॉनिटरिंग डैशबोर्ड डेवलप किया",
+          "ऑप्टिमाइज़्ड परफॉर्मेंस के साथ जटिल फॉर्म और डेटा टेबल लागू किए"
         ]
       }
     },
-    "techStack": ["React", "Redux", "Node.js", "PostgreSQL"],
-    "link": "https://github.com/example/task-management-app",
+    "techStack": ["React", "TypeScript", "Tailwind CSS", "Redux"],
+    "link": "",
     "image": "",
     "platform": "Web Application"
   },
   {
-    "id": "3",
+    "id": "6",
     "translations": {
       "id": {
-        "name": "Personal Finance Tracker",
-        "description": "Aplikasi pencatatan keuangan pribadi dengan visualisasi grafik pengeluaran bulanan.",
+        "name": "Quranku",
+        "description": "Aplikasi Al-Quran online yang menyediakan fitur baca Al-Quran, terjemahan, audio murottal, dan pencarian ayat untuk memudahkan ibadah sehari-hari.",
         "whatIDid": [
-          "Membangun aplikasi dengan Next.js dan Supabase",
-          "Membuat visualisasi grafik pengeluaran dengan Chart.js",
-          "Mendesain UI pencatatan transaksi yang sederhana"
+          "Mengembangkan antarmuka baca Al-Quran yang nyaman dan responsif",
+          "Mengintegrasikan audio player untuk murottal per ayat/surah",
+          "Membuat fitur pencarian dan bookmark ayat"
         ]
       },
       "en": {
-        "name": "Personal Finance Tracker",
-        "description": "Personal finance tracking app with monthly expense chart visualizations.",
+        "name": "Quranku",
+        "description": "Online Quran app providing Quran reading, translation, recitation audio, and verse search features to support daily worship.",
         "whatIDid": [
-          "Built the app with Next.js and Supabase",
-          "Created expense chart visualizations with Chart.js",
-          "Designed a simple transaction logging UI"
+          "Developed a comfortable, responsive Quran reading interface",
+          "Integrated an audio player for verse/surah recitation",
+          "Built verse search and bookmarking features"
         ]
       },
       "zh": {
-        "name": "个人财务追踪器",
-        "description": "带有月度支出图表可视化功能的个人财务记录应用。",
+        "name": "Quranku",
+        "description": "在线古兰经应用，提供经文阅读、翻译、诵读音频及经文搜索功能，方便日常礼拜使用。",
         "whatIDid": [
-          "使用 Next.js 和 Supabase 构建应用",
-          "使用 Chart.js 制作支出图表可视化",
-          "设计简洁的交易记录界面"
+          "开发舒适且响应式的古兰经阅读界面",
+          "集成逐节/逐章诵读音频播放器",
+          "构建经文搜索与收藏功能"
         ]
       },
       "ja": {
-        "name": "個人資産管理アプリ",
-        "description": "月間支出をグラフで可視化できる個人向け家計簿アプリ。",
+        "name": "Quranku",
+        "description": "クルアーンの閲覧、翻訳、朗誦音声、章句検索機能を備えたオンラインクルアーンアプリで、日々の礼拝をサポート。",
         "whatIDid": [
-          "Next.jsとSupabaseでアプリを構築",
-          "Chart.jsで支出グラフを可視化",
-          "シンプルな取引記録UIを設計"
+          "快適でレスポンシブなクルアーン閲覧インターフェースを開発",
+          "章句/スーラごとの朗誦音声プレーヤーを統合",
+          "章句検索とブックマーク機能を実装"
         ]
       },
       "hi": {
-        "name": "पर्सनल फाइनेंस ट्रैकर",
-        "description": "मासिक खर्च का ग्राफ दिखाने वाला व्यक्तिगत वित्त ट्रैकिंग ऐप।",
+        "name": "Quranku",
+        "description": "एक ऑनलाइन कुरान ऐप जो कुरान पढ़ने, अनुवाद, तिलावत ऑडियो और आयत खोज जैसी सुविधाएं देकर रोज़ाना इबादत को आसान बनाता है।",
         "whatIDid": [
-          "Next.js और Supabase से ऐप बनाया",
-          "Chart.js से खर्च का ग्राफ विज़ुअलाइज़ किया",
-          "सरल ट्रांजैक्शन लॉगिंग UI डिज़ाइन किया"
+          "आरामदायक और रिस्पॉन्सिव कुरान रीडिंग इंटरफेस बनाया",
+          "आयत/सूरा के अनुसार तिलावत ऑडियो प्लेयर इंटीग्रेट किया",
+          "आयत सर्च और बुकमार्क फीचर बनाया"
         ]
       }
     },
-    "techStack": ["Next.js", "Chart.js", "Supabase"],
-    "link": "https://github.com/example/finance-tracker",
+    "techStack": ["React", "TypeScript", "Tailwind CSS"],
+    "link": "",
+    "image": "",
+    "platform": "Mobile Application"
+  },
+  {
+    "id": "7",
+    "translations": {
+      "id": {
+        "name": "Crypto Bridge",
+        "description": "Platform jual beli aset kripto yang memungkinkan pengguna melakukan transaksi, memantau harga real-time, dan mengelola portofolio dengan aman.",
+        "whatIDid": [
+          "Membangun tampilan trading dan order book secara real-time",
+          "Mengembangkan dashboard portofolio dan riwayat transaksi",
+          "Mengimplementasikan grafik pergerakan harga dengan library charting"
+        ]
+      },
+      "en": {
+        "name": "Crypto Bridge",
+        "description": "Crypto asset trading platform that lets users buy/sell, track real-time prices, and manage their portfolio securely.",
+        "whatIDid": [
+          "Built the real-time trading and order book views",
+          "Developed the portfolio dashboard and transaction history",
+          "Implemented price movement charts using a charting library"
+        ]
+      },
+      "zh": {
+        "name": "Crypto Bridge",
+        "description": "加密货币交易平台，用户可进行买卖交易、实时查看价格并安全管理投资组合。",
+        "whatIDid": [
+          "构建实时交易界面与订单簿",
+          "开发投资组合仪表盘与交易历史",
+          "使用图表库实现价格走势图"
+        ]
+      },
+      "ja": {
+        "name": "Crypto Bridge",
+        "description": "暗号資産の売買、リアルタイム価格の確認、ポートフォリオの安全な管理ができる仮想通貨取引プラットフォーム。",
+        "whatIDid": [
+          "リアルタイムの取引画面と板情報（オーダーブック）を構築",
+          "ポートフォリオダッシュボードと取引履歴を開発",
+          "チャートライブラリを用いた価格推移グラフを実装"
+        ]
+      },
+      "hi": {
+        "name": "Crypto Bridge",
+        "description": "एक क्रिप्टो ट्रेडिंग प्लेटफॉर्म जहां यूज़र क्रिप्टो खरीद-बेच सकते हैं, रीयल-टाइम प्राइस देख सकते हैं और सुरक्षित रूप से पोर्टफोलियो मैनेज कर सकते हैं।",
+        "whatIDid": [
+          "रीयल-टाइम ट्रेडिंग व्यू और ऑर्डर बुक बनाई",
+          "पोर्टफोलियो डैशबोर्ड और ट्रांजैक्शन हिस्ट्री डेवलप की",
+          "चार्टिंग लाइब्रेरी से प्राइस मूवमेंट ग्राफ लागू किया"
+        ]
+      }
+    },
+    "techStack": ["Next.js", "TypeScript", "Tailwind CSS", "Chart.js"],
+    "link": "",
+    "image": "",
+    "platform": "Web Application"
+  },
+  {
+    "id": "8",
+    "translations": {
+      "id": {
+        "name": "Chappy LMS",
+        "description": "Platform Learning Management System (LMS) berbasis web untuk mengelola kelas, materi pembelajaran, kuis, dan progres belajar peserta.",
+        "whatIDid": [
+          "Mengembangkan dashboard peserta dan pengajar",
+          "Membangun fitur pemutar video dan materi pembelajaran interaktif",
+          "Mengimplementasikan sistem kuis dan pelacakan progres belajar"
+        ]
+      },
+      "en": {
+        "name": "Chappy LMS",
+        "description": "Web-based Learning Management System for managing classes, learning materials, quizzes, and learner progress.",
+        "whatIDid": [
+          "Developed the student and instructor dashboards",
+          "Built the video player and interactive learning material features",
+          "Implemented the quiz system and learning progress tracking"
+        ]
+      },
+      "zh": {
+        "name": "Chappy LMS",
+        "description": "基于网页的学习管理系统（LMS），用于管理课程、学习资料、测验及学员学习进度。",
+        "whatIDid": [
+          "开发学员与讲师仪表盘",
+          "构建视频播放器与互动学习资料功能",
+          "实现测验系统与学习进度追踪"
+        ]
+      },
+      "ja": {
+        "name": "Chappy LMS",
+        "description": "クラス、学習教材、クイズ、受講者の進捗を管理するWebベースの学習管理システム（LMS）。",
+        "whatIDid": [
+          "受講者・講師向けダッシュボードを開発",
+          "動画プレーヤーとインタラクティブな学習教材機能を構築",
+          "クイズ機能と学習進捗トラッキングを実装"
+        ]
+      },
+      "hi": {
+        "name": "Chappy LMS",
+        "description": "एक वेब-आधारित लर्निंग मैनेजमेंट सिस्टम (LMS) जो क्लासेस, स्टडी मटेरियल, क्विज़ और लर्नर की प्रोग्रेस मैनेज करता है।",
+        "whatIDid": [
+          "स्टूडेंट और इंस्ट्रक्टर डैशबोर्ड बनाए",
+          "वीडियो प्लेयर और इंटरैक्टिव लर्निंग मटेरियल फीचर बनाए",
+          "क्विज़ सिस्टम और लर्निंग प्रोग्रेस ट्रैकिंग लागू की"
+        ]
+      }
+    },
+    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "link": "",
+    "image": "",
+    "platform": "Web Application"
+  },
+  {
+    "id": "9",
+    "translations": {
+      "id": {
+        "name": "Diyo POS",
+        "description": "Sistem Point of Sale (POS) untuk FWB yang memudahkan pencatatan transaksi, manajemen menu, dan laporan penjualan secara efisien.",
+        "whatIDid": [
+          "Membangun antarmuka kasir yang cepat dan mudah digunakan",
+          "Mengembangkan manajemen menu dan stok produk",
+          "Membuat laporan penjualan dan rekap transaksi harian"
+        ]
+      },
+      "en": {
+        "name": "Diyo POS",
+        "description": "Point of Sale (POS) system for FWB that streamlines transaction recording, menu management, and sales reporting.",
+        "whatIDid": [
+          "Built a fast, easy-to-use cashier interface",
+          "Developed menu and product stock management",
+          "Created sales reports and daily transaction summaries"
+        ]
+      },
+      "zh": {
+        "name": "Diyo POS",
+        "description": "为FWB打造的销售点（POS）系统，实现高效的交易记录、菜单管理与销售报表。",
+        "whatIDid": [
+          "构建快速易用的收银界面",
+          "开发菜单与库存管理功能",
+          "制作销售报表与每日交易汇总"
+        ]
+      },
+      "ja": {
+        "name": "Diyo POS",
+        "description": "FWB向けのPOS（販売時点情報管理）システムで、取引記録、メニュー管理、売上レポートを効率化。",
+        "whatIDid": [
+          "高速で使いやすいレジ画面を構築",
+          "メニューと在庫管理機能を開発",
+          "売上レポートと日次取引集計を作成"
+        ]
+      },
+      "hi": {
+        "name": "Diyo POS",
+        "description": "FWB के लिए एक POS सिस्टम जो ट्रांजैक्शन रिकॉर्डिंग, मेन्यू मैनेजमेंट और सेल्स रिपोर्टिंग को आसान बनाता है।",
+        "whatIDid": [
+          "तेज़ और आसान कैशियर इंटरफेस बनाया",
+          "मेन्यू और स्टॉक मैनेजमेंट डेवलप किया",
+          "सेल्स रिपोर्ट और डेली ट्रांजैक्शन समरी बनाई"
+        ]
+      }
+    },
+    "techStack": ["React", "TypeScript", "Tailwind CSS"],
+    "link": "",
+    "image": "",
+    "platform": "Web Application"
+  },
+  {
+    "id": "10",
+    "translations": {
+      "id": {
+        "name": "GoFlight",
+        "description": "Platform pemesanan tiket pesawat online yang memudahkan pencarian jadwal penerbangan, perbandingan harga, dan proses booking.",
+        "whatIDid": [
+          "Mengembangkan alur pencarian dan pemesanan tiket yang intuitif",
+          "Membangun fitur filter dan perbandingan jadwal/harga penerbangan",
+          "Mengimplementasikan halaman pembayaran dan konfirmasi tiket"
+        ]
+      },
+      "en": {
+        "name": "GoFlight",
+        "description": "Online flight ticket booking platform that simplifies searching flight schedules, comparing prices, and completing bookings.",
+        "whatIDid": [
+          "Developed an intuitive flight search and booking flow",
+          "Built filtering and flight schedule/price comparison features",
+          "Implemented the payment and ticket confirmation pages"
+        ]
+      },
+      "zh": {
+        "name": "GoFlight",
+        "description": "在线机票预订平台，简化航班搜索、价格比较及预订流程。",
+        "whatIDid": [
+          "开发直观的航班搜索与预订流程",
+          "构建航班筛选与价格比较功能",
+          "实现支付与机票确认页面"
+        ]
+      },
+      "ja": {
+        "name": "GoFlight",
+        "description": "フライト検索、価格比較、予約手続きを簡単にするオンライン航空券予約プラットフォーム。",
+        "whatIDid": [
+          "直感的なフライト検索・予約フローを開発",
+          "フライトのフィルター機能とスケジュール/価格比較機能を構築",
+          "支払いとチケット確認ページを実装"
+        ]
+      },
+      "hi": {
+        "name": "GoFlight",
+        "description": "एक ऑनलाइन फ्लाइट टिकट बुकिंग प्लेटफॉर्म जो फ्लाइट शेड्यूल सर्च करना, प्राइस कंपेयर करना और बुकिंग करना आसान बनाता है।",
+        "whatIDid": [
+          "इंट्यूटिव फ्लाइट सर्च और बुकिंग फ्लो बनाया",
+          "फ्लाइट फिल्टर और शेड्यूल/प्राइस कंपैरिजन फीचर बनाया",
+          "पेमेंट और टिकट कन्फर्मेशन पेज लागू किए"
+        ]
+      }
+    },
+    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "link": "",
+    "image": "",
+    "platform": "Web Application"
+  },
+  {
+    "id": "11",
+    "translations": {
+      "id": {
+        "name": "My Zetta",
+        "description": "Dashboard admin untuk penyedia layanan internet (ISP) guna mengelola pelanggan, tagihan, dan pemantauan jaringan secara terpusat.",
+        "whatIDid": [
+          "Membangun dashboard admin untuk manajemen pelanggan dan tagihan",
+          "Mengembangkan tampilan monitoring status jaringan secara real-time",
+          "Mengimplementasikan tabel data dan filter pencarian pelanggan"
+        ]
+      },
+      "en": {
+        "name": "My Zetta",
+        "description": "Admin dashboard for an ISP to centrally manage customers, billing, and network monitoring.",
+        "whatIDid": [
+          "Built the admin dashboard for customer and billing management",
+          "Developed real-time network status monitoring views",
+          "Implemented data tables and customer search filters"
+        ]
+      },
+      "zh": {
+        "name": "My Zetta",
+        "description": "面向互联网服务提供商（ISP）的管理后台，用于集中管理客户、账单和网络监控。",
+        "whatIDid": [
+          "构建客户与账单管理的管理后台",
+          "开发实时网络状态监控界面",
+          "实现数据表格与客户搜索筛选功能"
+        ]
+      },
+      "ja": {
+        "name": "My Zetta",
+        "description": "ISP（インターネットサービスプロバイダー）向けの管理ダッシュボードで、顧客管理、請求、ネットワーク監視を一元化。",
+        "whatIDid": [
+          "顧客・請求管理のための管理ダッシュボードを構築",
+          "リアルタイムのネットワーク状態監視画面を開発",
+          "データテーブルと顧客検索フィルターを実装"
+        ]
+      },
+      "hi": {
+        "name": "My Zetta",
+        "description": "ISP (इंटरनेट सेवा प्रदाता) के लिए एडमिन डैशबोर्ड, जो कस्टमर, बिलिंग और नेटवर्क मॉनिटरिंग को केंद्रीकृत तरीके से मैनेज करता है।",
+        "whatIDid": [
+          "कस्टमर और बिलिंग मैनेजमेंट के लिए एडमिन डैशबोर्ड बनाया",
+          "रीयल-टाइम नेटवर्क स्टेटस मॉनिटरिंग व्यू डेवलप किए",
+          "डेटा टेबल और कस्टमर सर्च फिल्टर लागू किए"
+        ]
+      }
+    },
+    "techStack": ["React", "TypeScript", "Tailwind CSS"],
+    "link": "",
+    "image": "",
+    "platform": "Web Application"
+  },
+  {
+    "id": "12",
+    "translations": {
+      "id": {
+        "name": "SKT Survey Link",
+        "description": "Platform survei online seperti Google Form namun dengan fitur yang lebih lengkap dan tingkat lanjut, dikembangkan untuk pasar Korea.",
+        "whatIDid": [
+          "Membangun form builder dengan berbagai tipe pertanyaan dan logic bercabang",
+          "Mengembangkan tampilan hasil survei dan analitik respons",
+          "Mengimplementasikan UI multi-bahasa dan tema kustom"
+        ]
+      },
+      "en": {
+        "name": "SKT Survey Link",
+        "description": "Online survey platform similar to Google Forms but with more advanced, expert-level features, built for the Korean market.",
+        "whatIDid": [
+          "Built a form builder with multiple question types and branching logic",
+          "Developed survey result views and response analytics",
+          "Implemented multi-language UI and custom themes"
+        ]
+      },
+      "zh": {
+        "name": "SKT Survey Link",
+        "description": "类似谷歌表单的在线问卷平台，但功能更专业、更高级，面向韩国市场打造。",
+        "whatIDid": [
+          "构建支持多种题型与分支逻辑的表单构建器",
+          "开发问卷结果视图与回复数据分析",
+          "实现多语言界面与自定义主题"
+        ]
+      },
+      "ja": {
+        "name": "SKT Survey Link",
+        "description": "Googleフォームに似たオンラインアンケートプラットフォームだが、より高度で専門的な機能を備え、韓国市場向けに開発。",
+        "whatIDid": [
+          "複数の質問タイプと分岐ロジックに対応したフォームビルダーを構築",
+          "アンケート結果画面と回答分析機能を開発",
+          "多言語UIとカスタムテーマを実装"
+        ]
+      },
+      "hi": {
+        "name": "SKT Survey Link",
+        "description": "गूगल फॉर्म जैसा ऑनलाइन सर्वे प्लेटफॉर्म, लेकिन अधिक एडवांस्ड और एक्सपर्ट-लेवल फीचर्स के साथ, कोरियन मार्केट के लिए बनाया गया।",
+        "whatIDid": [
+          "कई क्वेश्चन टाइप और ब्रांचिंग लॉजिक वाला फॉर्म बिल्डर बनाया",
+          "सर्वे रिजल्ट व्यू और रिस्पॉन्स एनालिटिक्स डेवलप किए",
+          "मल्टी-लैंग्वेज UI और कस्टम थीम लागू किए"
+        ]
+      }
+    },
+    "techStack": ["React", "TypeScript", "Tailwind CSS"],
+    "link": "",
+    "image": "",
+    "platform": "Web Application"
+  },
+  {
+    "id": "13",
+    "translations": {
+      "id": {
+        "name": "Website Desa Tapos I",
+        "description": "Website informasi resmi Desa Tapos I yang menyajikan profil desa, berita, layanan publik, dan data kependudukan untuk warga.",
+        "whatIDid": [
+          "Mengembangkan halaman profil desa dan berita yang responsif",
+          "Membangun fitur layanan publik dan pengumuman desa",
+          "Mengoptimalkan tampilan agar mudah diakses oleh warga"
+        ]
+      },
+      "en": {
+        "name": "Tapos I Village Website",
+        "description": "Official information website for Tapos I Village, presenting the village profile, news, public services, and population data for residents.",
+        "whatIDid": [
+          "Developed responsive village profile and news pages",
+          "Built public service and village announcement features",
+          "Optimized the site for easy access by residents"
+        ]
+      },
+      "zh": {
+        "name": "塔波斯一村官网",
+        "description": "Tapos I村官方信息网站，为居民提供村庄简介、新闻、公共服务及人口数据。",
+        "whatIDid": [
+          "开发响应式的村庄简介与新闻页面",
+          "构建公共服务与村庄公告功能",
+          "优化网站使居民更易访问"
+        ]
+      },
+      "ja": {
+        "name": "タポス第1村ウェブサイト",
+        "description": "タポス第1村の公式情報サイトで、村のプロフィール、ニュース、公共サービス、住民データを住民向けに提供。",
+        "whatIDid": [
+          "レスポンシブな村プロフィール・ニュースページを開発",
+          "公共サービスと村のお知らせ機能を構築",
+          "住民がアクセスしやすいようサイトを最適化"
+        ]
+      },
+      "hi": {
+        "name": "टापोस I गांव वेबसाइट",
+        "description": "टापोस I गांव की आधिकारिक जानकारी वेबसाइट, जो निवासियों के लिए गांव की प्रोफाइल, समाचार, सार्वजनिक सेवाएं और जनसंख्या डेटा प्रस्तुत करती है।",
+        "whatIDid": [
+          "रिस्पॉन्सिव गांव प्रोफाइल और न्यूज़ पेज डेवलप किए",
+          "पब्लिक सर्विस और गांव की घोषणाओं के फीचर बनाए",
+          "निवासियों के लिए आसान एक्सेस हेतु साइट ऑप्टिमाइज़ की"
+        ]
+      }
+    },
+    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "link": "",
     "image": "",
     "platform": "Web Application"
   }

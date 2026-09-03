@@ -168,12 +168,15 @@
       }
     },
     "techStack": [
-      "React",
+      "Next",
       "TypeScript",
-      "Tailwind CSS"
+      "Shadcn UI",
+      "Zustand",
+      "PWA",
+      "Tanstack Query"
     ],
-    "link": "",
-    "image": "",
+    "link": "https://next-myquran.vercel.app/",
+    "image": "/projects/quranku.webp",
     "platform": "Mobile Application"
   },
   {

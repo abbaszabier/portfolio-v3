@@ -593,10 +593,13 @@
     "techStack": [
       "Next.js",
       "TypeScript",
-      "Tailwind CSS"
+      "Shadcn UI",
+      "Zustand",
+      "PWA",
+      "Tanstack Query"
     ],
-    "link": "",
-    "image": "",
+    "link": "https://tapos-satu.vercel.app/",
+    "image": "/projects/tapos1.png",
     "platform": "Web Application"
   }
 ]

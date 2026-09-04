@@ -96,7 +96,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       builtWith: "Dibuat dengan ❤️ oleh Abbas Zabier Mohammad",
     },
     home: {
-      badge: "Terbuka untuk peluang baru",
+      badge: "Mari kita bangun sesuatu bersama",
       greeting: "Halo, saya",
       name: "Abbas Zabier.",
       subtitle:
@@ -173,7 +173,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       builtWith: "Built with ❤️ by Abbas Zabier Mohammad",
     },
     home: {
-      badge: "Open to new opportunities",
+      badge: "Let's build something together",
       greeting: "Hi, I'm",
       name: "Abbas Zabier.",
       subtitle:
@@ -249,7 +249,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       builtWith: "由 Abbas Zabier Mohammad 用 ❤️ 打造",
     },
     home: {
-      badge: "欢迎新的合作机会",
+      badge: "让我们一起创造些什么",
       greeting: "你好，我是",
       name: "Abbas Zabier。",
       subtitle:
@@ -325,7 +325,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       builtWith: "Abbas Zabier Mohammad が ❤️ を込めて制作",
     },
     home: {
-      badge: "新しい機会を歓迎しています",
+      badge: "让我们一起创造些什么",
       greeting: "こんにちは、",
       name: "Abbasです。",
       subtitle:
@@ -406,7 +406,7 @@ const dictionaries: Record<Locale, Dictionary> = {
       builtWith: "Abbas Zabier Mohammad द्वारा ❤️ के साथ बनाया गया",
     },
     home: {
-      badge: "नए अवसरों के लिए उपलब्ध",
+      badge: "आइए कुछ साथ में बनाएं",
       greeting: "नमस्ते, मैं हूँ",
       name: "Abbas Zabier.",
       subtitle:

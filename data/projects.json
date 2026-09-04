@@ -531,12 +531,14 @@
       }
     },
     "techStack": [
-      "React",
+      "React.js",
       "TypeScript",
-      "Tailwind CSS"
+      "Tailwind CSS",
+      "Tanstack Query",
+      "Zustand"
     ],
-    "link": "",
-    "image": "",
+    "link": "https://github.com/abbaszabier/sktsurvey",
+    "image": "/projects/sktsurvey.webp",
     "platform": "Web Application"
   },
   {

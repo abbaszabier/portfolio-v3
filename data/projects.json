@@ -413,10 +413,12 @@
     "techStack": [
       "Next.js",
       "TypeScript",
-      "Tailwind CSS"
+      "Shadcn UI",
+      "Supabase",
+      "Zustand"
     ],
-    "link": "",
-    "image": "",
+    "link": "https://github.com/abbaszabier/next-flight",
+    "image": "/projects/goflight.webp",
     "platform": "Web Application"
   },
   {

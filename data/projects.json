@@ -471,12 +471,14 @@
       }
     },
     "techStack": [
-      "React",
-      "TypeScript",
-      "Tailwind CSS"
+      "Next.js",
+      "Javascript",
+      "Bootstrap",
+      "Tanstack Query",
+      "Zustand"
     ],
-    "link": "",
-    "image": "",
+    "link": "https://dev-zetta.datanusantara.com:6701/app",
+    "image": "/projects/myzetta.png",
     "platform": "Web Application"
   },
   {

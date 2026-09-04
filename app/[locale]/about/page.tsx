@@ -39,7 +39,7 @@ export default async function AboutPage({
       <section className="relative flex min-h-svh flex-col justify-center overflow-hidden">
         <HeroDecor />
         <div className="mx-auto w-full max-w-5xl px-6 py-24">
-          <Reveal className="grid gap-10 md:grid-cols-[26rem_1fr] md:items-center md:gap-16">
+          <div className="animate-in fade-in slide-in-from-bottom-4 grid gap-10 duration-700 md:grid-cols-[26rem_1fr] md:items-center md:gap-16">
             <div className="relative mx-auto aspect-[4/5] w-full max-w-md overflow-hidden rounded-[2.5rem] bg-muted ring-1 ring-border md:mx-0">
               {hasPhoto ? (
                 <Image
@@ -94,7 +94,7 @@ export default async function AboutPage({
                 )}
               </div>
             </div>
-          </Reveal>
+          </div>
         </div>
       </section>
 

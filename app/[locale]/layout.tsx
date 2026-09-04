@@ -19,6 +19,16 @@ export async function generateMetadata({
   return {
     title: dict.meta.title,
     description: dict.meta.description,
+    alternates: {
+      canonical: `/${locale}`,
+      languages: Object.fromEntries(LOCALES.map((l) => [l, `/${l}`])),
+    },
+    openGraph: {
+      title: dict.meta.title,
+      description: dict.meta.description,
+      url: `/${locale}`,
+      locale,
+    },
   }
 }
 

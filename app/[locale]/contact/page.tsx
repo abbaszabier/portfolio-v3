@@ -24,7 +24,7 @@ export default async function ContactPage({
       <section className="relative overflow-hidden min-h-svh">
         <HeroDecor />
         <div className="mx-auto w-full max-w-5xl px-6 py-24">
-          <Reveal>
+          <div className="animate-in fade-in slide-in-from-bottom-4 duration-700">
             <p className="text-xs font-medium uppercase tracking-widest text-muted-foreground">
               {dict.contact.label}
             </p>
@@ -45,7 +45,7 @@ export default async function ContactPage({
                 {LOCATION}
               </span>
             </div>
-          </Reveal>
+          </div>
 
           <div className="mt-12 grid gap-8 md:grid-cols-2">
             <Reveal

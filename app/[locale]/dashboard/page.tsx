@@ -37,7 +37,7 @@ export default async function DashboardPage({
           className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(var(--foreground)_1px,transparent_1px)] bg-[size:22px_22px] opacity-15 [mask-image:radial-gradient(ellipse_80%_60%_at_50%_0%,#000_50%,transparent_100%)]"
         />
         <div className="mx-auto w-full max-w-5xl px-6 py-16">
-          <Reveal>
+          <div className="animate-in fade-in slide-in-from-bottom-4 duration-700">
             <p className="text-xs font-medium uppercase tracking-widest text-muted-foreground">
               {dict.dashboard.label}
             </p>
@@ -47,7 +47,7 @@ export default async function DashboardPage({
             <p className="mt-2 text-sm text-muted-foreground">
               {dict.dashboard.subtitle}
             </p>
-          </Reveal>
+          </div>
 
           <Reveal delay={80} className="mt-8 grid gap-4 sm:grid-cols-3">
             {stats.map(({ label, value, icon: Icon }) => (

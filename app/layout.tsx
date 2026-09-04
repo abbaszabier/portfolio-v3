@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
-import { Manrope, Fredoka, Geist_Mono } from "next/font/google";
+import { Manrope, Fredoka } from "next/font/google";
 import { Navbar } from "@/components/navbar";
 import { Footer } from "@/components/footer";
+import { SITE_URL, SITE_NAME } from "@/lib/site";
 import "./globals.css";
 
 const manrope = Manrope({
@@ -15,14 +16,43 @@ const fredoka = Fredoka({
   weight: ["500", "600", "700"],
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
 export const metadata: Metadata = {
-  title: "Abbas Zabier Mohammad — Portfolio",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: `${SITE_NAME} — Portfolio`,
+    template: `%s — ${SITE_NAME}`,
+  },
   description: "Software engineer portfolio built with Next.js, Tailwind CSS, and shadcn/ui.",
+  authors: [{ name: SITE_NAME, url: SITE_URL }],
+  creator: SITE_NAME,
+  openGraph: {
+    type: "website",
+    siteName: `${SITE_NAME} — Portfolio`,
+    images: ["/profile.jpg"],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/profile.jpg"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+};
+
+const PERSON_JSON_LD = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  name: SITE_NAME,
+  alternateName: "Abbas Zabier",
+  url: SITE_URL,
+  image: `${SITE_URL}/profile.jpg`,
+  jobTitle: "Software Engineer",
+  sameAs: [
+    "https://github.com/abbaszabier",
+    "https://linkedin.com/in/abbaszabier",
+    "https://instagram.com/abzabier_",
+  ],
 };
 
 const THEME_INIT_SCRIPT = `
@@ -39,11 +69,15 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="id"
-      className={`${manrope.variable} ${fredoka.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${manrope.variable} ${fredoka.variable} h-full antialiased`}
       suppressHydrationWarning
     >
       <head>
         <script dangerouslySetInnerHTML={{ __html: THEME_INIT_SCRIPT }} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(PERSON_JSON_LD) }}
+        />
       </head>
       <body className="flex min-h-full flex-col">
         <Navbar />
